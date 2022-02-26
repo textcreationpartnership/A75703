@@ -1,0 +1,908 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ the riches of the Gospel, and the hope of Christians. A sermon preached at the funerall of Mr William Spurstow the only childe of Dr Spurstow at Hackney near London, Mar. 10. By Simeon Ashe preacher of the Gospel, and lecturer there.</title>
+            <author>Ashe, Simeon, d. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 112 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75703</idno>
+            <idno type="STC">Wing A3950</idno>
+            <idno type="STC">Thomason E744_11</idno>
+            <idno type="STC">ESTC R207025</idno>
+            <idno type="EEBO-CITATION">99866100</idno>
+            <idno type="PROQUEST">99866100</idno>
+            <idno type="VID">118362</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118362)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 114:E744[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ the riches of the Gospel, and the hope of Christians. A sermon preached at the funerall of Mr William Spurstow the only childe of Dr Spurstow at Hackney near London, Mar. 10. By Simeon Ashe preacher of the Gospel, and lecturer there.</title>
+                  <author>Ashe, Simeon, d. 1662.</author>
+               </titleStmt>
+               <extent>[8], 38, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for G. Sawbridge at the signe of the Bible on Ludgate-hill, near Fleet-bridge,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Variant: lacking the words "near Fleet-bridge" in imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spurstowe, William, 1644 or 5-1654.</term>
+               <term>Bible. --  N.T. --  Colossians I, 27 --  Sermons.</term>
+               <term>Funeral sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118362:1"/>
+            <pb facs="tcp:118362:1" rendition="simple:additions"/>
+            <p>CHRIST THE Riches of the GOSPEL, AND THE Hope of CHRISTIANS A SERMON Preached at the Funerall of M<hi rend="sup">r</hi> 
+               <hi>William Spurſtow</hi> the only Childe of D<hi rend="sup">r</hi> 
+               <hi>Spurstow</hi> at <hi>Hackney</hi> near <hi>London,</hi> Mar. 10.</p>
+            <p>By SIMEON ASHE Preacher of the Goſpel, and Lecturer there.</p>
+            <q>
+               <bibl>PHIL. 3. 23, 21.</bibl>
+               <p>I have a deſire to depart to be with Chriſt which is farre better.</p>
+               <p>For me to live is Chriſt, and to die is Gain.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> for <hi>G. Sawbridge</hi> at the Signe of the Bible on Ludgate-hill, 1654.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118362:2"/>
+            <pb facs="tcp:118362:2"/>
+            <head>To My much Eſteemed Good Friends, Dr <hi>Spurstow,</hi> Paſtor of the Church at <hi>Hackney,</hi> and to M<hi rend="sup">rs</hi> 
+               <hi>Sarah Spurſtow</hi> his Vertuous Wife.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I prepared this Sermon for the Pulpit, and preached it at the Funerall of your much endea<g ref="char:EOLhyphen"/>red Sonne and only childe, there was not one thought in my minde that it ſhould be brought to the Preſſe; but as it ſerved your deſires with reference to the Congregations profit there, ſo upon the ſame ac<g ref="char:EOLhyphen"/>count (through the importunity of many others alſo) it now co<g ref="char:EOLhyphen"/>meth abroad enlarged with reſpect unto more publike ſervice: The reading of it may probably renew your ſorrow by occaſion<g ref="char:EOLhyphen"/>ing the remembrance of your loſſe (for the wound not throughly healed will ſmart and bleed again upon every gentle touch) but I hope that influences from Christ (the ſubject of the Sermon) will drop like healing oyl, with ſweetneſſe upon your ſpirits. Summer-fruit doth ſooneſt fall from the tree out of which it grew: The early buddings both of ingenuity and piety, in your hopefull childe, cauſed ſome of your friends to ſuſpect that God would gather him unto himſelf before he became a man. Would not you both (if God had lengthened his life on earth) have been content to have wanted his ſociety for a time, upon well-ground<g ref="char:EOLhyphen"/>ed confidence of a comfortable meeting, and that your parting would be for his preferment and your mutual profit? I ſhall not need to make the application: He was the heir of a full eſtate, with which Gods bounty hath bleſſed you, but the hand of Pro<g ref="char:EOLhyphen"/>vidence hath put him into the poſſeſſion of a far more rich Inhe<g ref="char:EOLhyphen"/>ritance; You had hopes that he might have been the ſtaffe of your age, but though that ſupport is ſunk and ſhrunk from you, yet you are not left comfortleſs, for the precious promiſes of Goſpel-grace are continued <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to uphold both your hopes and hearts for ever. Chear up <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hearts (my dear Friends) both in hope of
+<pb facs="tcp:118362:3"/> his happy change and your ſpirituall advantage by the ſanctifi<g ref="char:EOLhyphen"/>cation of this your loſſe. Bleſſe God who beſtowed ſo good a childe upon you, ſuffered you to enjoy him ſo long, and gave you (with hearts to educate him religiouſly) to ſee the ſucceſſe of your endeavours in thoſe timely bloſſomes which appeared upon upon him; And as for your ſelves, do ye not finde (through the operation of Gods peculiar grace) that upon your ſouls which may encourage the application of <hi>Davids</hi> ſupport and conſola<g ref="char:EOLhyphen"/>tion? <hi>He hath made with me an everlaſting Covenant, orde<g ref="char:EOLhyphen"/>red in all things and ſure; for this is all my ſalvation and all</hi>
+               <note place="margin">2 Sam. 23. 5.</note> 
+               <hi>my deſire, although he make not my houſe to grow.</hi> In this Covenant there is nothing defective, which any Chriſtian, in any condition, can either deſire or want. And amongſt other rich promiſes which are thereto annexed, this is one; (which may be ſeaſonably releeving unto you) to <hi>give a better name then of Sons and Daughters:</hi> 
+               <g ref="char:V">Ʋ</g>pon all theſe conſiderations<note place="margin">Iſa. 56. 5.</note> (unto which your knowledge in the myſteries of the Gospel can adde many more) you ſhould rather expreſs the joys of faith then feed upon your ſorrows, to your own prejudice and the trou<g ref="char:EOLhyphen"/>ble of your Chriſtian friends: And ſeeing the Lord hath to your ſenſe written vanity upon the choiceſt of your creature<g ref="char:EOLhyphen"/>contents, how ſhould your ſouls be now elevated above all things ſublunary and changeable! His hand of providence hath eaſed you of all further cares for him, whom you intended to leave well furniſhed with all accomodations for comfort and ſervice in this world; therefore now what have you ſo much to minde here as to improve time, talents, eſtate, intereſts, yea, your All, for your own mutuall advantage in Chriſt, and the glory of God, who hath done ſo much for your ſelves and yours? This improve<g ref="char:EOLhyphen"/>ment of your affliction (wherein my experience hath wrought ſympathies) I can and ſhall heartily requeſt in your behalf through Jeſus Chriſt, in whom I am,</p>
+            <closer>
+               <signed>Your aſſured Friend, if his own, SIMEON ASHE.</signed>
+               <dateline>
+                  <date>Iune 20. 1654.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:118362:3"/>
+            <head>To my much Honoured and Worthy Friends, D<hi rend="sup">r</hi> 
+               <hi>William Spurstow</hi> and M<hi rend="sup">rs</hi> 
+               <hi>Sarah Spurſtow</hi> his Wife, upon the Death of their hopefull Sonne and onely Childe, M<hi rend="sup">r</hi> 
+               <hi>William Spurſtow.</hi>
+            </head>
+            <head>
+               <hi>Carmen</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</head>
+            <l>LEt hopeleſſe Heathens grieve, and let them ſhed</l>
+            <l>From drowned eyes vain offerings to the dead;</l>
+            <l>Let their remorſeleſſe hands their boſomes rend,</l>
+            <l>'Cauſe Death their comforts and their hopes do end:</l>
+            <l>Let weeping <hi>Niobe</hi> congeal to ſtone,</l>
+            <l>And kill her ſelf with grief and fruitleſſe mone.</l>
+            <l>But you (Dear Friends) do mourn in hope, and weep,</l>
+            <l>Beleeving your bleſt childe in Chriſt doth ſleep.</l>
+            <l>Harbour we mutinous thoughts againſt his will,</l>
+            <l>
+               <hi>Whoſe works are juſt, whoſe waies are holy ſtill?</hi>
+            </l>
+            <l>Oh let his mercy and his goodneſſe charm</l>
+            <l>All diſcontent; He'le never do you <hi>harm,</hi>
+            </l>
+            <l>Nor can he do you wrong, becauſe he's juſt,</l>
+            <l>Willingly then ſubmit, or elſe you muſt.</l>
+            <l>Baniſh ſad thoughts which do without relief</l>
+            <l>Torment you with reiterated grief;</l>
+            <l>Suppoſe you ſaw your Son equalling thoſe</l>
+            <l>
+               <hi>Bright morning Stars the Sons of God;</hi> Suppoſe</l>
+            <l>You ſaw his ſoul inthron'd in bliſſe with them,</l>
+            <l>Who Cit'zens are of <hi>New Jeruſalem:</hi>
+            </l>
+            <l>Suppoſe you heard his own delightfull voice</l>
+            <l>Thus ſpeak (Dear Parents) weep not but rejoyce</l>
+            <l>For me, for now I am perfectly free</l>
+            <l>From ſorrow, ſin, Death, and mortality;</l>
+            <pb facs="tcp:118362:4"/>
+            <l>Surely you do not doubt my happineſſe</l>
+            <l>(For you oft ſay I'm gone to heaven) much leſſe</l>
+            <l>Can loving Parents envy it, then ceaſe</l>
+            <l>To interrupt my joy and your own peace.</l>
+            <l>Happy thoſe Parents who their Children teach</l>
+            <l>Gods fear, whilſt young, and whilſt within the reach</l>
+            <l>Of Prayers and counſels; ſo ſhall not death prevent</l>
+            <l>Their diligence, and they too late repent.</l>
+            <l>How early ſaving light did dawn and break</l>
+            <l>In him who learnt to pray as ſoon as ſpeak,</l>
+            <l>And minding Sermons then knew good from ill,</l>
+            <l>When thoſe of's age have not learnt to ſit ſtill;</l>
+            <l>Nay more, ſo young, and yet complain'd, that he</l>
+            <l>Could not rule's thoughts when moſt think thoughts are free.</l>
+            <l>Then 'twas the devil who did firſt invent</l>
+            <l>That curſed prophane Proverb, <hi>A young Saint</hi>
+            </l>
+            <l>
+               <hi>An old Devil;</hi> no no, many through Gods grace</l>
+            <l>Set out betimes, and hold out all the race,</l>
+            <l>And many <hi>Timothy</hi>'s have <hi>Mnaſons</hi> prov'd,</l>
+            <l>Who have Gods Word in childehood learnt and lov'd.</l>
+            <l>Such was his pregnant parts and piety,</l>
+            <l>His youth it was a full maturity.</l>
+            <l>A <hi>Childe</hi> that did <hi>per ſaltum</hi> commence <hi>man,</hi>
+            </l>
+            <l>His years ſpake morning, his parts Meridian:</l>
+            <l>Harveſt i'th Spring, a bloſſome fairly blown,</l>
+            <l>Knit, and at once fruit to perfection grown.</l>
+            <closer>
+               <signed>
+                  <hi>Haec moerens poſuit</hi> Gulielmus Taylor A. M. <hi>apud Londinenſes Paſtor</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:118362:4"/>
+            <head>Upon the much lamented Death of the truly Pious Youth M<hi rend="sup">r</hi> 
+               <hi>William Spurstow,</hi> who deceaſed <hi>Anno Dom. 1633/4 March Aetatis</hi> 9.</head>
+            <l>
+               <hi>BLeſt Soul, thy Parents only Son! Thou waſt</hi>
+            </l>
+            <l>
+               <hi>Nipt in the bud, and into deaths Den caſt</hi>
+            </l>
+            <l>
+               <hi>In Spring time both of age and year. Thy Sun</hi>
+            </l>
+            <l>
+               <hi>Is ſoon gone down, ſoon is thy ſhort race run;</hi>
+            </l>
+            <l>
+               <hi>True, an Apprentiſhip th'haſt ſerv'd on earth</hi>
+            </l>
+            <l>
+               <hi>Of nine years, but the tenth thou paiſt to Death</hi>
+            </l>
+            <l>
+               <hi>As her due Tithe; She will not be deni'd,</hi>
+            </l>
+            <l>
+               <hi>Young, old, rich, poor, are carried down this Tide.</hi>
+            </l>
+            <l>
+               <hi>Thou liv'ſt, though dead in th'memory of thoſe</hi>
+            </l>
+            <l>
+               <hi>Who knew thy life and ſaw its holy cloſe;</hi>
+            </l>
+            <l>
+               <hi>The honour thou didſt to thy Parents bear,</hi>
+            </l>
+            <l>
+               <hi>Thy humble carriage, witty words, indear</hi>
+            </l>
+            <l>
+               <hi>Thee unto all; Thoſe ſparks of Piety</hi>
+            </l>
+            <l>
+               <hi>Kindled wiihin thy Soul by th' Almighty</hi>
+            </l>
+            <l>
+               <hi>Dazled the eyes of men; Thine exc'llent parts</hi>
+            </l>
+            <l>
+               <hi>Admired were by all; Thou wonſt all hearts.</hi>
+            </l>
+            <l>
+               <hi>But ſtay, needs he Encomiums? Reader, know,</hi>
+            </l>
+            <l>
+               <hi>He joys above while we him wail below.</hi>
+            </l>
+            <closer>
+               <signed>
+                  <hi>E. C.</hi> Student in <hi>Syd. Coll. Cam.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:118362:5"/>
+            <head>Upon his Funerall Text, <hi>Col. 1. 27. Chriſt in you the hope of glory.</hi> With which he was much affected in his life time, and of which he did often ſpeak.</head>
+            <l>THis Text did much refreſh this Saint, now dead;</l>
+            <l>Chriſt was his Hope, his Glory, Crown, and Head:</l>
+            <l>Whilſt here on earth Chriſt dwelt in him by grace,</l>
+            <l>But now he dwells with Chriſt and ſees his face.</l>
+            <l>His Body though in grave, to Chriſt is knit,</l>
+            <l>His Soul with Chriſt, in Chriſts own Throne doth ſit.</l>
+            <l>Chriſt was his hope on earth; but now he is,</l>
+            <l>His Heaven, his All, his, his, for ever his.</l>
+            <closer>
+               <signed>
+                  <hi>E. C.</hi> Student in <hi>Syd. Coll. Cam.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <head>Upon the Death of M. <hi>william Spurſtow.</hi>
+            </head>
+            <l>
+               <hi>YE Muſes</hi> Helicon <hi>what can you lie</hi>
+            </l>
+            <l>
+               <hi>Thus mantled in a ſtupid Lethargy?</hi>
+            </l>
+            <l>
+               <hi>Breathe out your ſouls with ſighs, melt into tears,</hi>
+            </l>
+            <l>
+               <hi>And let your griefs be equall to your fears,</hi>
+            </l>
+            <l>
+               <hi>For him poor ſoul whoſe Fate it was we ſee,</hi>
+            </l>
+            <l>
+               <hi>To bid adieu in its minority:</hi>
+            </l>
+            <l>
+               <hi>Mourn that gloomy day on which it took its riſe,</hi>
+            </l>
+            <l>
+               <hi>To ſeek a manſion in heavens Paradiſe.</hi>
+            </l>
+            <l>
+               <hi>What was his worth, what Friends loſſe, in verſe</hi>
+            </l>
+            <l>
+               <hi>Were but loſt pains in both for to rehearſe;</hi>
+            </l>
+            <l>
+               <hi>His purer mettal'd Soul needeth no Praiſe</hi>
+            </l>
+            <l>
+               <hi>Or Art to'dulterate, all this can't raiſe</hi>
+            </l>
+            <l>
+               <hi>The price of ſuch a Pearl, that had alone</hi>
+            </l>
+            <l>
+               <hi>What bounteous Art or Nature made her own:</hi>
+            </l>
+            <l>
+               <hi>And boldly this I'le ſpeak unto his praiſe,</hi>
+            </l>
+            <l>
+               <hi>His holy Life doth much exceed his daies:</hi>
+            </l>
+            <l>
+               <hi>O pray that ſuch bleſs'd hopes may longer live</hi>
+            </l>
+            <l>
+               <hi>Examples to ſuch youth as cannot give.</hi>
+            </l>
+            <closer>
+               <signed>W. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:118362:5"/>
+            <head>The Text.</head>
+            <epigraph>
+               <bibl>COL. 1. 27.</bibl>
+               <q>Which is Christ in you the hope of Glory.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Subject matter of this Text is Jeſus Chriſt, and therefore ſeaſonably ſuitable to the expe<g ref="char:EOLhyphen"/>ctation of this Aſſembly, which is to hear a Funeral Sermon; For whereas <hi>wine</hi> is to be gi<g ref="char:EOLhyphen"/>ven unto <hi>thoſe that be of heavy hearts,</hi> what<note place="margin">Prov. 31. 6.</note> Cordiall is comparable with Jeſus Chriſt who is called and deſerveth to be accounted, <hi>The Conſolation of</hi>
+               <note place="margin">Luk. 2. 25.</note> 
+               <hi>Iſrael?</hi>
+            </p>
+            <p>In the Text Chriſt is tendred or rather commended to the conſideration of theſe Chriſtian <hi>Coloſſians</hi> under a threefold notion.</p>
+            <p n="1">1. As containing the riches of all Evangelicall myſteries;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>non ad</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>ſed ad</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>referre oportet.</hi> Dav. <hi>in Text.</hi>
+               </note> The Relative (<hi>which</hi>) muſt neceſſarily be referred unto the word <hi>Riches,</hi> in the fore-going part of this verſe, as is ma<g ref="char:EOLhyphen"/>nifeſt from the Originall in our Greek Copies. Although the vulgar applieth the Relative (<hi>which</hi>) unto <hi>myſtery,</hi> and I acknowledge Chriſt to be a myſtery as the holy Ghoſt doth<note place="margin">Eph. 3. 3, 4.</note> often ſuggeſt in the holy Scriptures; And indeed his conce<g ref="char:EOLhyphen"/>ption and his hypoſtaticall Union, <hi>&amp;c.</hi> give us juſt occaſion to call him <hi>wonderfull,</hi> Iſa. 9. 6. yet in this place I humbly conceive that he is held forth to our view, as the Riches of the glorious myſtery of the Goſpel.</p>
+            <p n="2">2. As being the groundwork and the foundation of every good Chriſtians good hope of happineſſe; <hi>Chriſt the hope of glory.</hi> I have heard of Ships laden with rich commodities, from which their owners expect great advantage, called <hi>The
+<pb n="2" facs="tcp:118362:6"/> Hope,</hi> or <hi>The good Hope:</hi> Under this Name may beleevers, reall Saints, well own the Lord Jeſus, <hi>The Hope of glory.</hi>
+            </p>
+            <p n="3">3. As inhabiting, dwelling in beleeving Chriſtians, for this end, that by his abiding and operating in them he might be unto them <hi>the hope of glory; Christ in you the hope of glory:</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Eraſmus notat ccdices quoſdam ſic habere</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>inter vos, ut legit etiam Syrus interpres.</hi> Beza <hi>in Text.</hi>
+               </note> Some Tranſlators render the words, <hi>Chriſt among you;</hi> but I rather cleave unto our Engliſh Tranſlators, both old and new, which do anſwer our Greek Copies, and accord with the moſt learned, judicious Interpreters, <hi>Chriſt in you the hope of glory.</hi>
+            </p>
+            <p>Having thus briefly given in the diviſion of the Text, with the Interpretation of the words both together, I proceed to the handling of the Points of Doctrine hence conſidera<g ref="char:EOLhyphen"/>ble for our Inſtruction.</p>
+            <p>The firſt Truth obſervable is this,</p>
+            <p>
+               <hi>That Jeſus Chriſt is the riches of all Goſpel-glorious My<g ref="char:EOLhyphen"/>ſteries.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label>
+            </p>
+            <p>The Apoſtle <hi>Paul</hi> acknowledging much glory in the Ad<g ref="char:EOLhyphen"/>miniſtrations of <hi>Moſes</hi> (wherein there was much Goſpel, though vailed and ſhadowed under Types and Ceremonies) yet telleth us, That Evangelicall miniſtrations do <hi>exceed in glory,</hi> and that the <hi>former had no glory</hi> in reſpect of this lat<g ref="char:EOLhyphen"/>ter,<note place="margin">2 Cor. 3. 9, 10, 11.</note> which <hi>excelleth,</hi> and <hi>is much more glorious.</hi> Now the riches of all this glory are in Chriſt; Concerning which the expreſſion of the ſame Apoſtle is obſervable, <hi>The unſearcha<g ref="char:EOLhyphen"/>ble riches of Chriſt.</hi> The riches of this Goſpel-glory in Chriſt<note place="margin">Eph. 3. 8.</note> may be diſcovered with reference 1. both to God, 2. and to<note place="margin">Ex parte Dei, &amp; ex parte noſtri.</note> godly Chriſtians.</p>
+            <p>Firſt, In regard of God; All the revenues of glory which come unto his Majeſty from the Goſpel, are moſt e<g ref="char:EOLhyphen"/>minently in Jeſus Chriſt; And therefore at his birth the An<g ref="char:EOLhyphen"/>gels ſing, <hi>Glory to God on high.</hi> 1. In him <hi>are all the treaſures</hi>
+               <note place="margin">Luk. 2. 14. Col. 2 3. 1 Cor. 2. 7. 1 Cor. 1. 24. Eph. 3. 18, 19. Eph. 2. 7. Eph. 1. 6.</note> 
+               <hi>of wiſedom;</hi> Here is wiſedom in a myſtery. 2. And Chriſt is (as the <hi>wiſedom</hi> ſo) <hi>the Power of God;</hi> Divine Omnipotency is no way ſo fully diſcovered as in Chriſt. 3. In him is divine love <hi>which paſſeth knowledge,</hi> which is beyond all dimenſions. 4. And as for mercy, how full is the language of the Apo<g ref="char:EOLhyphen"/>ſtle; <hi>The exceeding riches of his grace in his kindeneſs through
+<pb n="3" facs="tcp:118362:6"/> Chriſt Jeſus;</hi> And ſpeaking elſewhere of Goſpel-incoms he addeth, <hi>To the praiſe of the glory of his grace;</hi> Here might be added the unſpotted holineſſe and untainted juſtice of God, more glorified in the unexpreſſible humiliation of Jeſus Chriſt then in any other way whatſoever. And who know<g ref="char:EOLhyphen"/>eth not how the honour of Gods Truth is triumphantly glo<g ref="char:EOLhyphen"/>rious in Chriſt, becauſe all things foretold of him both ſub<g ref="char:EOLhyphen"/>ſtantiall and circumſtantiall were exactly fullfilled in him: <hi>The Law was given by Moſes but grace and truth came by</hi>
+               <note place="margin">Ioh. 1. 14.</note> 
+               <hi>Jeſus Chriſt;</hi> Theſe things I only touch upon without en<g ref="char:EOLhyphen"/>largement.</p>
+            <p>Secondly, In relation to his people, Chriſt is the riches of<note place="margin">
+                  <hi>Chriſtus eſt no<g ref="char:EOLhyphen"/>bis theſaurus ſpiritualium di<g ref="char:EOLhyphen"/>vitiarum.</hi> Day. <hi>in Text.</hi> 1 Cor. 2. 7.</note> the Goſpels glory. The bleſſed Apoſtle is very open in his expreſſion to this purpoſe, <hi>We ſpeak the hidden wiſedom of God which God ordained unto our glory;</hi> Many rich and glorious are the true Chriſtians advantages from Jeſus Chriſt: I ſhall briefly point at four which S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> hath recorded together in <hi>Eph.</hi> 1.</p>
+            <p>And before I mention the particulars, the generall which he premiſeth (being very comprehenſive) is worthy conſide<g ref="char:EOLhyphen"/>ration; <hi>Bleſſed be the God and Father of our Lord Jeſus</hi>
+               <note place="margin">Eph. 1. 3. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Chriſt who hath bleſſed us with all ſpirituall bleſſings in heaven<g ref="char:EOLhyphen"/>lies in Chriſt.</hi> The Originall neither reſtraineth the word <hi>Heavenly</hi> to <hi>places</hi> or <hi>things;</hi> but the holy Ghoſt hinteth thus much; That whatſoever ſpirituall bleſſings (which are incomparably the beſt) any Saints receive from the Lord, ei<g ref="char:EOLhyphen"/>ther here upon earth or hereafter in heaven, all are derived through Chriſt. The particulars follow.</p>
+            <p n="1">1. Electing love is in Chriſt; <hi>He hath choſen us in him be<g ref="char:EOLhyphen"/>fore</hi>
+               <note place="margin">ver. 4.</note> 
+               <hi>the foundation of the world.</hi>
+            </p>
+            <p n="2">2. Adoption into the right and priviledges of Gods chil<g ref="char:EOLhyphen"/>dren is by Chriſt; <hi>Having predeſtinated us unto the Adoption</hi>
+               <note place="margin">ver. 5.</note> 
+               <hi>of Children by Jeſus Chriſt to himſelf, according to the good pleaſure of his will.</hi>
+            </p>
+            <p n="3">3. Fatherly acceptance with God, pardoning all ſins, is upon the account of <hi>Jeſus Chriſt. He hath made us accepted</hi>
+               <note place="margin">ver. 6, 7.</note> 
+               <hi>in the beloved, in whom we have redemption through his bloud, the forgiveneſſe of ſins, according to the riches of his grace.</hi>
+            </p>
+            <p n="4">
+               <pb n="4" facs="tcp:118362:7"/>4. And the poſſeſſion of our rich Inheritance is by reaſon of our co-heirſhip with Chriſt Jeſus; <hi>In whom alſo we have</hi>
+               <note place="margin">ver. 11, 12. <hi>Neque ſolum gratiam omnem inherentem ha<g ref="char:EOLhyphen"/>bemus a Chriſto derivatam, ſed gratiam accep<g ref="char:EOLhyphen"/>tationis divinae ad vitam aeter<g ref="char:EOLhyphen"/>nam habemus.</hi> Dav. <hi>in Text. <g ref="char:V">Ʋ</g>ſe 1.</hi>
+               </note> 
+               <hi>obtained an Inheritance,</hi> &amp;c. <hi>that we ſhould be unto the praiſe of his glory who firſt truſted in Chriſt.</hi>
+            </p>
+            <p>Theſe ſhort touches may be ſufficient to clear the truth of the doctrine, I proceed to the Application.</p>
+            <p>Miniſters therefore ſhould in this regard the more abun<g ref="char:EOLhyphen"/>dantly preach Chriſt: Our Apoſtle having in the Text told the <hi>Coloſſians</hi> that Chriſt is the riches of the glorious Goſpel, he addeth immediately in the verſe following, <hi>whom we preach;</hi> yea, this is conſiderable, that when <hi>Paul</hi> was a pri<g ref="char:EOLhyphen"/>ſoner for ſuch preaching, he maketh this the greateſt boon to be begg'd of God in his behalf, that he might have liber<g ref="char:EOLhyphen"/>ty with ability to declare ſuch things unto them in his Mini<g ref="char:EOLhyphen"/>ſtry. <hi>Continue in prayer, withall praying for us, that God</hi>
+               <note place="margin">Col. 4. 2, 3, 4.</note> 
+               <hi>would open unto us a door of utterance to ſpeak the Myſtery of Chriſt, for which I am alſo in bonds that I may make it ma<g ref="char:EOLhyphen"/>nifeſt.</hi> The like requeſt he maketh unto the <hi>Epheſians; Pray</hi>
+               <note place="margin">Eph. 6. 18, 19, 20.</note> 
+               <hi>alwaies in the Spirit,</hi> &amp;c. <hi>And for me that utterance may be given unto me, that I may open my mouth boldly to make known the myſtery of the Goſpel, for which I am an Ambaſſadour in bonds;</hi> And he greatly glorieth in this as a tranſcendent ho<g ref="char:EOLhyphen"/>nour, That he was made a Miniſter of the Goſple to preach the <hi>unſearchable riches</hi> of Chriſt, and to make all men ſee<note place="margin">Eph. 3. 7, 8, 9.</note> 
+               <hi>what is the fellowſhip of the mystery,</hi> &amp;c. And this practice may prevalently be perſwaded by the conſideration of</p>
+            <list>
+               <item>1. The Miniſters Office.</item>
+               <item>2. The Peoples need.</item>
+            </list>
+            <p>Firſt, By Office, We are <hi>Stewards of the Myſteries of God,</hi>
+               <note place="margin">1 Cor. 4. 1. 2.</note> 
+               <hi>and it is required in Stewards that a man be found faithfull.</hi> In this reſpect we muſt produce for the honour of our Ma<g ref="char:EOLhyphen"/>ſter and the uſe of his Family ſuch Treaſures with which he hath been pleaſed to entruſt us. As <hi>Abrahams</hi> ſervant<note place="margin">Gen. 24. 53.</note> brought forth <hi>Jewels of ſilver</hi> and <hi>Jewels of gold</hi> to win the heart of <hi>Rebecca</hi> to <hi>Iſaac,</hi> ſo ſhould we ſpread before our people the unvaluable riches of Chriſt, that we might work out their hearts unto him.</p>
+            <p>Secondly, As our Office, ſo the Peoples neceſſities do call
+<pb n="5" facs="tcp:118362:7"/> for our help herein, for there are hidden things herein (as the word <hi>myſtery</hi> intimateth, 1 <hi>Cor.</hi> 2. 7.) which very few un<g ref="char:EOLhyphen"/>derſtand, in compariſon of the multitudes who are palpably ignorant hereof; This our Saviour ſuggeſts, who having by the Parable of the Sower, taught, that not above one part of four receive ſaving profit by the Goſpel preached among them, he ſaid unto his Diſciples; <hi>
+                  <g ref="char:V">Ʋ</g>nto you it is given to know</hi>
+               <note place="margin">Luk. 8. 10.</note> 
+               <hi>the Myſteries of the Kingdom of God, but unto others in Para<g ref="char:EOLhyphen"/>bles, that ſeeing they might not ſee, and hearing they might not underſtand.</hi>
+            </p>
+            <p>And nothing that can poſſibly be taught is more uſefull<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>t ſciant, nih<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> do<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ri poſſe abſolutius.</hi> Cal. in ver. 28.</note> and advantagious. Hereby the proud heart is moſt kindely humbled, and the humbled heart moſt ſweetly comforted: This knowledge will enrich the poor in Spirit and keep them lowly who are rich in grace: It will encreaſe the hatred of ſinne, the contempt of the world, faith in the promiſes, love to God, Chriſtian courage, zeal, patience, together with humble boldneſſe in addreſſes unto God, upon all occa<g ref="char:EOLhyphen"/>ſions: It is the <hi>one thing neceſſary.</hi> By means hereof (as the<note place="margin">Luk. 10. 42.</note> Apoſtle hints in the verſe following the Text) Miniſters may hope to <hi>preſent their people perfect in Jeſus Chriſt;</hi> But theſe things I do only name without enlargement, yet before I diſmiſſe this Uſe, I deſire leave to entreat my Brethren in the Miniſtry to minde the counſell and practice of this our Apo<g ref="char:EOLhyphen"/>ſtle,<note place="margin">1 Cor. 14. 23. 18, 19.</note> 
+               <hi>viz.</hi> to ſtudy familiar plainneſſe in unfolding theſe rich myſteries of glorious Goſpel grace which are treaſured up in Jeſus Chriſt.</p>
+            <p>My ſecond Uſe muſt be directed both unto Miniſters and <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> people, To move them to ſeek more and more the know<g ref="char:EOLhyphen"/>ledge of Chriſt. <hi>Let the word of Chriſt dwell richly in you in</hi>
+               <note place="margin">Col. 3. 16. Prov. 2.</note> 
+               <hi>all wiſedom;</hi> How unweariedly labourious are men in dig<g ref="char:EOLhyphen"/>ging into the bowels of the earth to finde and to fetch out the riches there; Now of how little worth is all the worlds wealth being compared with Chriſt! The Goſpel is the <hi>trea<g ref="char:EOLhyphen"/>ſure</hi>
+               <note place="margin">Mat. 13. 44, 46</note> 
+               <hi>in the Field</hi> (of which the Parable ſpeaketh) and Chriſt is that <hi>one Pearl of great price,</hi> which is of more worth then any mans <hi>All.</hi> Therefore the <hi>Scriptures ſhould be ſearched</hi> (as<note place="margin">Joh. 5. 31. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> men ſearch for treaſures) to make further and fuller diſco<g ref="char:EOLhyphen"/>veries
+<pb n="6" facs="tcp:118362:8"/> of Chriſt, becauſe in him eternall life and all things conducible thereunto are to be enjoyed. Saint <hi>Paul</hi> who by experience knew the worth of humane learning, even a<g ref="char:EOLhyphen"/>mongſt the rich-gifted <hi>Corinthians, determined not to know</hi>
+               <note place="margin">1 Cor. 2. 2.</note> 
+               <hi>any thing but Jeſus Chriſt, and him crucified;</hi> And himſelf elſewhere giveth a rationall, a ſatisfying account of this his reſolution, <hi>viz.</hi> becauſe of the ſuperlative both excellency and utility of this knowledge. <hi>Doubtleſſe I count all things</hi>
+               <note place="margin">Phil. 3. 8, 10.</note> 
+               <hi>but loſſe for the excellency of the knowledge of Chriſt Jeſus my Lord; That I may know him and the power of his reſurrecti<g ref="char:EOLhyphen"/>on,</hi> &amp;c. Who can tell how many rarities lie hid in Chriſt, or how great gain may be got by the knowledge of him? 1. This is the way to procure juſtification by him, <hi>By his knowledge ſhall my righteous Servant juſtifie many.</hi> 2. Hereby<note place="margin">Iſa. 53.</note> the growth of all graces both in kindes and degrees, is much promoted; <hi>We all with open face beholding as in a glaſſe the</hi>
+               <note place="margin">Joh. 4. 10. 2 Cor. 4. 18.</note> 
+               <hi>glory of the Lord, are changed into the ſame image from glory to glory, even as by the Spirit of the Lord.</hi> 3. And hence iſſu<g ref="char:EOLhyphen"/>eth glory: The Text tells you, that in him is <hi>the hope of glory; This is life eternall that they may know thee the only true God,</hi>
+               <note place="margin">Joh. 17. 3.</note> 
+               <hi>and Jeſus Chriſt whom thou haſt ſent.</hi> If all this be not ſuffici<g ref="char:EOLhyphen"/>ent to quicken diligence in ſeeking out after the knowledge of Chriſt, let me adde a double conſideration from the pra<g ref="char:EOLhyphen"/>ctice of the holy Angels (though they be not ſo much con<g ref="char:EOLhyphen"/>cerned in and advantaged by Chriſt as our ſelves) 1. They did deſire to <hi>pry and peep</hi> into thoſe Typical and Prophetical<note place="margin">1 Pet. 1. 12. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> diſcoveries of him which were obſcure before his Incarnati<g ref="char:EOLhyphen"/>on. 2. And now they are content to come (as it were to our Schools where we are taught) unto our Congregations for clearer inſtruction in this myſtery according to Gods minde; <hi>
+                  <g ref="char:V">Ʋ</g>nto the Principalities and Powers in heavenly places might be</hi>
+               <note place="margin">Eph. 3. 10. <hi>Sacro-ſanctum &amp; vivificum mysterium.</hi> Aug <hi>Eſt quidem fru<g ref="char:EOLhyphen"/>ctuoſum, honori<g ref="char:EOLhyphen"/>ficum, &amp; glori<g ref="char:EOLhyphen"/>oſum hoc Evan<g ref="char:EOLhyphen"/>gelij myſterium.</hi> Dav. <hi>in Text.</hi>
+               </note> 
+               <hi>known by the Church the manifold wiſedom of God.</hi> Theſe things ſpeak cogent arguments to them who are Chriſtianly inge<g ref="char:EOLhyphen"/>nuous, to move more and more induſtrious endeavours, to dive further and further into theſe rich divine myſteries, whereof Gods Worthies have given many high commenda<g ref="char:EOLhyphen"/>tions, calling it an holy, glorious, fruitfull, quickning, hap<g ref="char:EOLhyphen"/>py-making myſtery; What commendation can be higher
+<pb n="7" facs="tcp:118362:8"/> then that of our Apoſtle, 1 <hi>Tim. 3. 16. Without controverſie great is the myſtery of godlineſſe, God manifeſt in the fleſh, juſti<g ref="char:EOLhyphen"/>fied in the Spirit, ſeen of Angels, preached unto the Gentiles, beleeved on in the world, received up into glory;</hi> Herein is con<g ref="char:EOLhyphen"/>tained the marrow of Chriſtianity: And doubtleſſe every Chriſtian who mindeth the power of godlineſſe, either in reference unto Gods honour or ſelf-welfare, will by theſe Meditations be prevailed with to ſeek acquaintance with this rich myſtery. I ſhall ſpeak no more unto this firſt Point, <hi>viz. That Chriſt is the riches of Goſpel-glorious Myſteries;</hi> but I proceed unto the ſecond.</p>
+            <p>
+               <hi>That reall Saints, beleeving Chriſtians have</hi> (even while <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> here on earth) <hi>hope of glory.</hi>
+            </p>
+            <p>Such were theſe <hi>Coloſſians</hi> to whom theſe words were ſpo<g ref="char:EOLhyphen"/>ken, <hi>The Saints and faithful brethren in Chriſt;</hi> Not only Saints<note place="margin">ver. 2.</note> titularly but in reality, whoſe Saintſhip and faith was wit<g ref="char:EOLhyphen"/>neſſed by their brotherly diſpoſition towards one another, and their faithful walking in the world: theſe, theſe were they who had hope of future glory. The like expreſſion hath the ſame Apoſtle in his Epiſtle to the <hi>Romans; Being juſtified by faith we have peace with God, through our Lord Je<g ref="char:EOLhyphen"/>ſus</hi>
+               <note place="margin">Rom. 5. 1, 2.</note> 
+               <hi>Chriſt, and we rejoyce in hope of the glory of God.</hi> This Do<g ref="char:EOLhyphen"/>ctrine I ſhall not much dilate upon but only give one touch or two by way of application.</p>
+            <p>Hence we are informed that the gain of godlineſſe, and <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> the profitableneſſe of a religious life is not to be judged of alone by the outward viſible fruit reaped here; for the rich Revenues of holineſſe are rather in hope then in hand: <hi>The world knoweth us not, and it doth not yet appear what we ſhall</hi>
+               <note place="margin">1 Ioh. 3. 1, 2. Eccl. 9. 1.</note> 
+               <hi>be: No man knoweth love or hatred by all that is before them;</hi> And therefore in the eſtimation of thoſe who judge accord<g ref="char:EOLhyphen"/>ing to the ſight of the eye, <hi>If in this life only we have hope</hi>
+               <note place="margin">1 Cor. 15. 19.</note> 
+               <hi>in Chriſt, we are of all men moſt miſerable.</hi> Though in very truth Chriſtians who live by faith, and walk holily with the Lord, have cordials in ſecret which the world knoweth not of, <hi>viz. peace which paſſeth all underſtanding, and joys moſt un<g ref="char:EOLhyphen"/>ſpeakable</hi>
+               <note place="margin">Phil. 4. 7. 1 Pet. 1. 8. 2 Cor. 1. 5.</note> 
+               <hi>and full of glory</hi> (which do wonderfully exceed and admirably ſweeten all their ſufferings) yet the beſt is be<g ref="char:EOLhyphen"/>hinde,
+<pb n="8" facs="tcp:118362:9"/> theſe are only the taſtes of that full glory reſerved for them in heaven. Thus the Prophet <hi>Malachy</hi> confuteth the carnall crew in his daies, who ſaid it was a vain thing to ſerve God; He firſt telleth them of a <hi>book of Remembrance written before the Lord,</hi> recording all the ſerviceableneſſe of Saints in evil times, and then referreth them to the laſt day, when God ſhall <hi>make up his jewels,</hi> adding theſe words, <hi>Then</hi>
+               <note place="margin">Mal. 3. 17, 18.</note> 
+               <hi>ſhall ye return and diſcern between the righteous and the wicked, between him that ſerveth God and him that ſerveth him not.</hi> Would you give a right eſtimate of the precious incoms by godlineſſe, do not ſo much view their preſent outward wants and preſſures, but rather hearken to the language of their hopes. <hi>When Chriſt who is our life ſhall appear, then we alſo</hi>
+               <note place="margin">Col. 3. 4. 1 Ioh. 3. 2.</note> 
+               <hi>ſhall appear with him in glory; And we ſhall be like him, for we ſhall ſee him as he is.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> Therefore let us all try whether we can from good hold<g ref="char:EOLhyphen"/>ing<note place="margin">Ezek. 3. 6. Heb. 6. 11.</note> grounds, make out our hopes of glory; As Miniſters muſt beware of flattering people with vain hopes, ſo the Apoſtle <hi>Paul</hi> perſwadeth every one of us to <hi>ſhew diligence</hi> for the attaining the <hi>full aſſurance of hope,</hi> yea, the ſame di<g ref="char:EOLhyphen"/>ligence<note place="margin">1 Pet. 3. 15.</note> which we uſe in reference to any act of obedience: And Saint <hi>Peter</hi> would have all Chriſtians <hi>ready to give a reaſon of the hope which is in them.</hi> The neceſſity of this triall may be manifeſted by theſe following conſiderations.</p>
+            <p n="1">1. The worth of the thing hoped for, <hi>viz. glory,</hi> which is in value tranſcendently better then all things under the Sunne; Herein conſiſts everlaſting heavenly happineſs. The phraſe whereby the holy Scripture doth expreſſe it is very full; <hi>a farre more exceeding and eternall weight of glory;</hi> The<note place="margin">2 Cor. 4. 17. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> value of any commodity cauſeth cautiouſneſſe to prevent cheating: Wiſedom therefore will make wary, that hopes hereof may not be built upon ſandy bottoms.</p>
+            <p n="2">2. The uſefulneſſe of hope, being as an <hi>Helmet</hi> to ſecure<note place="margin">1 Theſ. 5. 8. Heb. 6. 19.</note> from capital dangers in warlike encounters, and as an <hi>Anchor</hi> to prevent ſhipwrack upon a ſtormy Sea: in which caſes men are careful to make ſuch proviſion, that the Head-piece and Anchor may not be brittle and eaſily broken.</p>
+            <p n="3">3. The hopes of multitudes will be lamentably fruſtrated;
+<pb n="9" facs="tcp:118362:9"/> Our Saviour brings in many pleading with confidence at the laſt day for life, who ſhall be rejected with miſerable diſap<g ref="char:EOLhyphen"/>pointment, <hi>Many ſhall ſay to me at that day Lord, Lord,</hi> &amp;c.<note place="margin">Mat. 7. 22, 23.</note> 
+               <hi>and I will profeſſe unto them, I never knew you</hi> (q. d. I never approved you) <hi>depart from me.</hi>
+            </p>
+            <p n="4">4. We know not how ſoon our hopes may be aſſaulted by others, and ſhaken by the recoylings of our own con<g ref="char:EOLhyphen"/>ſciences. As good <hi>Job</hi> had his hopes queſtioned by his Friends, <hi>Is this thy confidence and thy hope?</hi> So the Church<note place="margin">Iob 4. 6. Lam 3. 18.</note> in an afflicted condition doth this dolefully bewail her ſelf; <hi>I ſaid, My hope is periſhed from the Lord.</hi>
+            </p>
+            <p>Now if upon theſe meditations helps for <hi>hopes-diſcovery</hi> ſhall be enquired after, I ſhall briefly hint 1. whoſe hopes will fail. 2. Whoſe hopes will hold in the time of triall; As for the former the holy Ghoſt tels us plainly, that their hopes are periſhing, who are 1. either wicked, 2. or hy<g ref="char:EOLhyphen"/>pocrites.<note place="margin">Pro. 11. 7. Iob 8. 13.</note> 
+               <hi>When the wicked man dieth his expectation ſhall periſh,</hi> and <hi>the hypocrites hope ſhall periſh.</hi> Here though I may not be large in characterizing the wicked man or in uncaſing the Hypocrite; yet take theſe ſhort touches and enlarge them with application in your own thoughts:</p>
+            <p>Firſt, A wicked man is 1. A ſin-lover; <hi>The wicked and him</hi>
+               <note place="margin">Pſa. 11. 5.</note> 
+               <hi>who loveth iniquity doth Gods ſoul hate,</hi> ſaith the Pſalmiſt<g ref="char:punc">▪</g> And mens love of ſinne is manifeſted by their unwillingneſs to have it ſpoken againſt; As <hi>David</hi> would have <hi>Abſalom</hi> gent<g ref="char:EOLhyphen"/>ly<note place="margin">2 Sam. 18. 5. Pſal. 50. 16.</note> dealt with. 2. And a man who liveth in ſin upon choice and deliberation; Like as the fiſh liveth in water, He is as a Tradeſman, a Practitioner in ſin, a <hi>Sin-maker,</hi> a <hi>worker of</hi>
+               <note place="margin">1 Ioh. 3. 8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Mat. 7. 23.</note> 
+               <hi>iniquity,</hi> as the Scripture expreſſeth it; Therefore lay your hands upon your hearts, and obſerve whether they breathe loving allowance of ſin, and deliberate reſolutions to drive a trade in waies of known tranſgreſſions, though both God and your own conſciences condemn them.</p>
+            <p>Secondly, An hypocrite may be deſcribed; <hi>An outſide,</hi>
+               <note place="margin">Mat. 15. 8, 9. &amp; 23. 25. &amp; 23. 5.</note> 
+               <hi>ſelf-ſeeking, man-pleaſing man.</hi> Thus our Lord doth ſtigma<g ref="char:EOLhyphen"/>tize them; <hi>Ye hypocrites, well did Iſaiah propheſie of you, ſay<g ref="char:EOLhyphen"/>ing, This people draweth nigh unto me with their mouth, and honoureth me with their lips, but their heart is farre from me;
+<pb n="10" facs="tcp:118362:10"/> Ye make clean the outſide, and all their works they do to be ſeen of men:</hi> When they either faſt, or feaſt religiouſly, it is to <hi>themſelves;</hi> Hereby a plain-dealing ſelf-reflecting Chriſtian<note place="margin">Zech. 7. 5, 6.</note> may give a good gueſſe at his own eſtate, <hi>viz.</hi> whether up<g ref="char:EOLhyphen"/>right or an hypocrite, and conſequently whether his hope will be holding or periſhing: And I wiſh people to conſider theſe hints for triall the rather becauſe the hopes of theſe perſons will fall and fail them at death, if not ſooner; <hi>What is the hope of the Hypocrite though he hath gained when God</hi>
+               <note place="margin">Iob 27. 8.</note> 
+               <hi>taketh away his ſoul?</hi>
+            </p>
+            <p>As for the latter <hi>viz</hi> whoſe hopes will hold, attend the ex<g ref="char:EOLhyphen"/>preſſions of the Apoſtle <hi>Peter, Bleſſed be the God and Father of</hi>
+               <note place="margin">1. Pet. 1. 3.</note> 
+               <hi>our Lord Jeſus Chriſt, which according to his abundant mercy hath begotten us again unto a lively hope, by the reſurrection of Chriſt from the dead, to an inheritance incorruptible, and undefiled, and that fadeth not away, reſerved in heaven for you.</hi> Hence two things are notable for our purpoſe to diſcover good hope. 1. The Regeneration of the perſon hoping. 2. The activity of the hope it ſelf. 1. The perſons are begotten again, 2. Their hope is lively. That both theſe particulars may be practically applied for triall, I will for brevity ſake ſuggeſt that the ſpirituall birth, and hopes vivacity, may be evi<g ref="char:EOLhyphen"/>denced by effectuall vocation; Hence it is that God in the<note place="margin">Eph. 1. 18. &amp; 4. 4.</note> Scripture ſpeaketh once and again <hi>of the hope of his calling.</hi> Now our effectuall calling doth diſcover it ſelf, 1. Partly by our coming off from ſin with deteſtation, and this is the effect of good hope, <hi>Every man that hath this hope in him, purifieth</hi>
+               <note place="margin">1 Ioh. 3, 3.</note> 
+               <hi>himſelf as he is pure.</hi> 2. And partly by our coming up unto God in an obedientiall ſubmiſſion unto his government, in a ſtudious conformity to his laws. Theſe are conjoyned in the experience and practice of Gods people, <hi>viz.</hi> hope and holi<g ref="char:EOLhyphen"/>neſſe: As of <hi>David, Lord I have hoped for thy ſalvation and</hi>
+               <note place="margin">Pſa. 116. 166.</note> 
+               <hi>done thy Commandments;</hi> And of <hi>Paul, After the way which</hi>
+               <note place="margin">Act. 24. 14. 15, 16.</note> 
+               <hi>they call Hereſie, ſo worſhip I the God of my Fathers, beleeving all things which are written in the Law and the Prophets, and have hope towards God; And herein do I exerciſe my ſelf, to have alwaies a conſcience void of offence towards God and to<g ref="char:EOLhyphen"/>wards men:</hi> Therefore conſciencious endeavours againſt
+<pb n="11" facs="tcp:118362:10"/> all ſinfull pollutions both of heart and life, together with care fully to anſwer the minde of the Lord in a religious converſation, notwithſtanding hardſhips and reproaches in the world, will give good teſtimony unto the truth of our hopes of eternal glory; whereas looſeneſſe of life and heart, in waies of carnall ſelf-ſeeking and man-pleaſing, following the multitude, and ſwimming down the ſtream of declining times, may adminiſter juſt occaſion of doubting, that mans expectations of eternal glory will be diſappointed.</p>
+            <p>To perſwade all them who have hitherto flattered them<g ref="char:EOLhyphen"/>ſelves <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> with falſe hopes of heaven, to lay in better grounds for the future: It is the earneſt deſire of Goſpel-Miniſters that you would <hi>uſe diligence to attain the full aſſurance of hope.</hi>
+               <note place="margin">Heb. 6. 11.</note>
+            </p>
+            <p>And 1. Becauſe you have heard, that it is attainable, therefore you ſhould take encouragement to ſeek it.</p>
+            <p>2. Adde to the poſſibility of getting aſſured hope, the ne<g ref="char:EOLhyphen"/>ceſſity thereof, that you may be prevailed with to look after it. You heard before that hope is that unto a Chriſtian in his paſſage unto heaven which an <hi>Helmet</hi> is to a Souldier, and<note place="margin">1 Theſ. 5. 8. Heb. 6. 19.</note> an <hi>Anchor</hi> is to the Mariner. Therefore let this conſiderati<g ref="char:EOLhyphen"/>on move us to make out for the Helmet and Anchor of good hope. And I would entreat you the rather to minde this my earneſt exhortation, becauſe of the rocks of diſſolute<g ref="char:EOLhyphen"/>neſſe and deſtruction upon which you will be in danger to be driven, when Satan and your own conſciences ſhall diſ<g ref="char:EOLhyphen"/>cover the ſandineſſe of all your former hopes. Noteable for the proof hereof is that paſſage in the prophecy of <hi>Jeremi<g ref="char:EOLhyphen"/>ah,</hi> where the people being perſwaded to repentance, return this anſwer: <hi>There is no hope, we will walk after our own de<g ref="char:EOLhyphen"/>vices,</hi>
+               <note place="margin">Ier. 18. 11, 12.</note> 
+               <hi>and we will every one do the imagination of his evil heart;</hi> Or if the razing of hopes foundations doth not pro<g ref="char:EOLhyphen"/>duce ſuch wretched wicked reſolutions, with what ſinkings and dolefull deſpondency will the awakened Soul be over<g ref="char:EOLhyphen"/>whelmed? Our Proverb ſaith, <hi>Was it not for hope the heart would break;</hi> Therefore ſleight not mine advice, neither delay the uſe of Gods means to gain a well-grounded hope<note place="margin">Iſa. 38. 18.</note> of your eternal ſalvation: your life is both ſhort and un<g ref="char:EOLhyphen"/>certain; <hi>And they who go down into the pit cannot hope for
+<pb n="12" facs="tcp:118362:11"/> Gods truth.</hi> Now for your help herein, I ſhall in my next do<g ref="char:EOLhyphen"/>ctrine leade you to Chriſt who is the true Chriſtians hope of glory.</p>
+            <p>
+               <hi>That Chriſt is unto faithfull Chriſtians the hope of glory.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label>
+            </p>
+            <p>As my Text ſpeaks this truth in open words, ſo elſewhere our Apoſtle thus expreſſeth himſelf; <hi>The Lord Jeſus Chriſt</hi>
+               <note place="margin">1 Tim. 1. 1. Luk. 2. 28, 29, 30.</note> 
+               <hi>which is our hope:</hi> And here <hi>Simeon</hi> anchored his hope of heaven, for he taking Chriſt in his arms, ſaid, <hi>Now letteſt thou thy Servant depart in peace, for mine eyes have ſeen thy ſalvation.</hi>
+            </p>
+            <p>For the clearing of this Point there are two things enqui<g ref="char:EOLhyphen"/>rable.</p>
+            <p n="1">1. What is meant by Hope of glory.</p>
+            <p n="2">2. How Chriſt is to be accounted the Chriſtians Hope of glory.</p>
+            <p>Firſt, The hope of glory.</p>
+            <p n="1">1. Either ſignifieth the glory hoped for, as it's taken in many other Scriptures; <hi>The hope laid up for you in heaven;</hi>
+               <note place="margin">ver. 5. Tit. 2. 13.</note> 
+               <hi>Looking for that bleſſed hope and the glorious appearing of the great God and our Saviour Jeſus Chriſt.</hi>
+            </p>
+            <p n="2">2. Or the glorious hope; the grace of hope whereby the Soul deſirouſly expecteth future everlaſting glory; accor<g ref="char:EOLhyphen"/>ding to the words of this our Apoſtle; <hi>I know that this ſhall tend to my ſalvation, according to my earneſt expectation and</hi>
+               <note place="margin">Phil. 1. 19, 20.</note> 
+               <hi>hope.</hi>
+            </p>
+            <p>Secondly, Chriſt may truly be called the hope of glory in both theſe ſenſes.</p>
+            <p n="1">1. Being <hi>the glory of his people Iſrael,</hi> viz. the matter, the<note place="margin">Luk. 2. 32. <hi>Gloriam quam speramus Chri<g ref="char:EOLhyphen"/>ſtus eſt gloria, &amp; quam habe<g ref="char:EOLhyphen"/>mus, &amp; quam habituri ſimus.</hi> Rolloc. <hi>in Text</hi> Ioh. 1. 16. 2 Cor. 3. 18.</note> object of their chiefeſt glory both here and hereafter. He is the Chriſtians <hi>All</hi> both upon earth and in heaven, Chriſt is the glory of heaven, the very heaven of heaven.</p>
+            <p n="2">2. And being the root from whence holy hope and all other graces do ſpring: <hi>From his fulneſſe we all receive grace for grace; And whom we beholding as in a glaſſe, we all are changed from glory to glory;</hi> Grace is glory begun, and glory is grace perfited, and both theſe we have from Jeſus Chriſt.</p>
+            <p>For the further opening and evidencing of this Doctrine,
+<pb n="13" facs="tcp:118362:11"/> 
+               <hi>viz. That Chriſt is the hope of glory,</hi> Conſider, that a Chri<g ref="char:EOLhyphen"/>ſtians hope is attributed: 1. Efficiently, to God the Father working it by the holy Ghoſt; <hi>The God of hope cauſe you to abound in hope, through the power of the holy Ghoſt.</hi> 2. Inſtru<g ref="char:EOLhyphen"/>mentally<note place="margin">Rom. 15. 13.</note> to the word of God, which is the word of his grace. <hi>Whatſoever things were written aforetime, were written, that</hi>
+               <note place="margin">Rom. 15. 4.</note> 
+               <hi>we through patience and comfort of the Scriptures might have hope.</hi> 3. Evidentially to the work of ſaving grace in the ſoul, manifeſting it ſelf by its operations there; <hi>God gives good</hi>
+               <note place="margin">2 The. 2. 16.</note> 
+               <hi>hope through grace,</hi> whether faith, <hi>Rom.</hi> 15. 13. or love, 1 <hi>Joh.</hi> 3. 14. or any other ſanctifying frame of heart. 4. And yet in a way of peculiarity Chriſt is the Chriſtians hope, which our Apoſtle intends in this Text, wherein there is ſome Empha<g ref="char:EOLhyphen"/>ſis; <hi>The hope, that hope,</hi> He is <hi>ſingularly, eminently</hi> the hope<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1 Theſ. 1. 3.</note> of glory; Fundamentally our hope of heaven is built up<g ref="char:EOLhyphen"/>on him: <hi>Hope in the Lord Jeſus Chriſt,</hi> ſaith the Apoſtle.</p>
+            <p>Now the true Chriſtians <hi>hope of glory</hi> is raiſed out of Chriſt.</p>
+            <p n="1">1. Upon that federall tranſaction which paſſed betwixt God the Father and Chriſt his Sonne; The Apoſtle ſpeak<g ref="char:EOLhyphen"/>ing of the Covenant, thus expreſſeth himſelf, <hi>To Abraham</hi>
+               <note place="margin">Gal. 3. 16.</note> 
+               <hi>and his Seed were the Promiſes made, He ſaith not, And to his Seeds, as of many, but as of one And to thy Seed, which is Chriſt:</hi> And hither (as I humbly conceive) we may referre that paſ<g ref="char:EOLhyphen"/>ſage in our Saviours Prayer unto his Father, relating to him<g ref="char:EOLhyphen"/>ſelf, <hi>Thou haſt given him power over all fleſh, that he ſhould</hi>
+               <note place="margin">Ioh. 17. 2.</note> 
+               <hi>give eternall life to as many as thou haſt given him.</hi> Upon this account the Apoſtle ſeemeth to encourage hope; <hi>In hope of</hi>
+               <note place="margin">Tit. 1. 2.</note> 
+               <hi>eternall life, which God that cannot lie promiſed before the world began:</hi> For unto whom beſides Chriſt could the Almighty then, <hi>viz.</hi> before the world began, be engaged by any pro<g ref="char:EOLhyphen"/>miſe?<note place="margin">Prov. 8. 22, 32, 33.</note> 
+               <hi>Solomon</hi> doth ſuggeſt tranſactions betwixt God and Chriſt his eſſentiall wiſedom, before the Creation, concer<g ref="char:EOLhyphen"/>ning the welfare of man, amongſt which tranſactions, doubtleſſe this was one, that through him beleevers ſhould have hope of glory.</p>
+            <p n="2">2. Becauſe of his ſatisfactory Paſſion; For whereas ſinne committed againſt God, and Gods wrath kindled againſt man,<note place="margin">Heb. 3. 17, 18.</note> are the only hindrances of entrance into glory. <hi>Againſt them
+<pb n="14" facs="tcp:118362:12"/> who ſinned God ſware in his wrath that they ſhould not enter into his reſt.</hi> The Lord Jeſus by his ſufferings did break into pieces thoſe barres, and made way for Chriſtians admiſſion into<note place="margin">Heb. 9. 26. 1 Theſ. 1. 10.</note> glory; For he <hi>took away ſinne by the Sacrifice of himſelf;</hi> and <hi>Jeſus delivered us from the wrath to come;</hi> As he remo<g ref="char:EOLhyphen"/>veth guilt by ſatisfying divine juſtice, ſo he quenched the flames of Gods anger, by the ſhedding of his bloud; And hereupon followeth hope of glory.</p>
+            <p n="3">3. By vertue of his meritorious purchaſe; The Apoſtle<note place="margin">Eph. 1. 14.</note> calleth a glorified eſtate in heaven, <hi>The purchaſed poſſeſſion, received by Redemption:</hi> whereas <hi>man had made</hi> forfeiture of his happineſſe (which conſiſted in communion with God) and was altogether unable to ranſome it, the Lord Jeſus bought it back again by his perfect obedience, which was eſteemed of valuable conſideration for ſo great a purchaſe, becauſe of the infinite excellency of his perſon, being both<note place="margin">Heb. 10. 7, 9, 44.</note> God and man; Though man through the worthleſneſſe of his perſon and weakneſſes of his beſt performances cannot deſerve the leaſt accommodation from the Lord, yet mans hope of glory is upheld by the deſerts of <hi>Emmanuell,</hi> of<note place="margin">Rom. 8. 3, 4.</note> Chriſt, <hi>God with us.</hi>
+            </p>
+            <p n="4">4. Through the effectuall prevalency of his prayer; Chriſt ſaid with confidence unto his Father, <hi>I know that thou heareſt me alwaies;</hi> And this was one great Requeſt which<note place="margin">Ioh. 11. 42.</note> he made, <hi>Father, I will that they alſo whom thou haſt given me, be with me where I am, that they may behold my glory,</hi>
+               <note place="margin">Ioh. 17. 24.</note> 
+               <hi>which thou haſt given me, for thou haſt loved me before the Foundation of the world;</hi> This Petition is a good prop to ſup<g ref="char:EOLhyphen"/>port hope of glory in a gracious heart.</p>
+            <p n="5">5. From the end of his Aſcention; We all do beleeve, that Chriſt is <hi>received up into glory.</hi> And himſelf before his<note place="margin">1 Tim. 3. 16.</note> departure from earth, ſaid, <hi>I go to prepare a place for you, and if I go to prepare a place for you, I will come again and re<g ref="char:EOLhyphen"/>ceive</hi>
+               <note place="margin">Ioh. 14. 2, 3.</note> 
+               <hi>you unto my ſelf, that where I am there ye may be alſo.</hi> Here is good Anchor-hold for <hi>hope, which entreth into that within the veil, whither the forerunner is for us entred.</hi> Chriſt<note place="margin">Heb. 6. 19, 20.</note> is gone into Heaven as our Harbinger to provide glorious manſions for us, and to take poſſeſſion in our behalf. And
+<pb n="15" facs="tcp:118362:12"/> the Apoſtle <hi>Peter</hi> writeth thus unto the ſcattered Chriſtian Jews, <hi>God raiſed Chriſt from the dead, and gave him glory, that your faith and hope might be in God.</hi> From all theſe conſidera<g ref="char:EOLhyphen"/>tions jointly conſidered this concluſion is confirmed by Scri<g ref="char:EOLhyphen"/>pture-ſtrength and evidence; <hi>That Chriſt is unto beleeving Chriſtians the hope of glory.</hi> The application followeth.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> Therefore without Chriſt there cannot be any well-groun<g ref="char:EOLhyphen"/>ded<note place="margin">1 Pet. 1. 21. <hi>Extra Chriſtum non gloria, ſed ignominia expe<g ref="char:EOLhyphen"/>ctanda eſt.</hi> Hun. <hi>in Text.</hi> Eph. 2. 12. Iob 21. 7, 13. Pſa. 73. 7, Iob 7. 6.</note> expectation of future glory: As this ſmart inference followeth undeniably from the Text under hand, ſo the ſame Apoſtle is open and expreſſe for this truth elſewhere; Suggeſting to the <hi>Epheſians</hi> their ſad condition in an unchri<g ref="char:EOLhyphen"/>ſtian eſtate, he connecteth theſe two particulars, <hi>viz. ye were without Chriſt, having no hope.</hi> Although prophane godleſſe and Chriſtleſſe men may have their expectations of outward comforts accompliſhed, and poſſeſſe <hi>more then heart could wiſh,</hi> yet in regard of ſpirituals and eternals we may be confident, that <hi>they ſpend their daies without hope.</hi> In which reſpect they ſhould rather be looked upon as objects of pity then of envy, when they are in their greateſt jollity and proſperity, becauſe being Chriſtleſſe they are poor, hope<g ref="char:EOLhyphen"/>leſſe creatures. Take man in his beſt eſtate imaginable out of Chriſt, and upon the ſerious Survey of himſelf he ſhall have cauſe to ſay, <hi>What is my ſtrength that I ſhould hope?</hi>
+               <note place="margin">Iob 6. 11.</note> And as <hi>Paul</hi> ſaid in reference to himſelf and them who ſail<g ref="char:EOLhyphen"/>ed with him in a ſad Sea-voyage, that <hi>when neither Sunne, nor Starres in many daies appeared, and no ſmall tempeſt lay on</hi>
+               <note place="margin">Act. 17. 20.</note> 
+               <hi>us, all hope that we ſhould be ſaved was then taken away.</hi> So let the chiefeſt Sonnes of men with their higheſt parts be laid under the ſtorms of divine diſpleaſure, without Goſpel<g ref="char:EOLhyphen"/>light diſcovering Chriſt, and all hope of ſalvation will be quite removed.</p>
+            <p>Hence fair occaſion is offered to diſcover their dangerous <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> deluſion, who build their hopes of heaven upon creature<g ref="char:EOLhyphen"/>foundations. As the Papiſts who in their <hi>Ave-Maries</hi> call<note place="margin">Spes noſtra.</note> the Virgin the mother of Chriſts humanity <hi>Our Hope,</hi> who alſo truſt unto their works as meritorious cauſes of Salva<g ref="char:EOLhyphen"/>tion: So others alſo who imagine happineſſe attainable from the right improvement of Natures abilities, without
+<pb n="16" facs="tcp:118362:13"/> the meritorious ſatisfaction of Jeſus Chriſt: whereas the Scripture doth not only aſſert, that <hi>there is not ſalvation in</hi>
+               <note place="margin">Act. 4. 12. Gal. 5. 4. <hi>Sclus Chriſtus, is eſt, per quem vitam aeternam expect are licet.</hi> Piſcat. <hi>in Text.</hi>
+               </note> 
+               <hi>any other</hi> beſides Chriſt, but doth alſo affirm that <hi>Chriſt is become of no effect unto you, whoſoever of you are juſtified by the Law;</hi> Oh that this ſhort, ſharp expreſſion from an Apo<g ref="char:EOLhyphen"/>ſtolical pen might warn the wanton wits of theſe unwary times to take heed of crying up Nature and morall abilities, with the neglect of Jeſus Chriſt, who alone is the foundation hope of future glory.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> Therefore the communication of glory is from meer mer<g ref="char:EOLhyphen"/>cy,<note place="margin">Rom. 6. 23. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Donum gratis datum.</hi>
+               </note> 
+               <hi>Eternall life is the gift of Gods grace through Jeſus Chriſt;</hi> Although I touched upon this before, yet I take it up again upon a double account; partly becauſe the Apoſtle in this Text intends a check unto them who mixed their own righ<g ref="char:EOLhyphen"/>teouſneſſe with Chriſt, and partly becauſe many in theſe daies, not only Papiſts, but other proud Opinioniſts, do dero<g ref="char:EOLhyphen"/>gate from Goſpel-mercy by aſcribing too much unto mans naturall ſtrength, morally improved, whereby Gods deſign in making man happy by Chriſt, is directly croſſed and diſ<g ref="char:EOLhyphen"/>appointed. Let the words of the Apoſtle <hi>Paul<g ref="char:punc">▪</g>
+               </hi> be ſeriouſly conſidered, <hi>Ye are in Chriſt Jeſus, who of God is made unto</hi>
+               <note place="margin">1 Cor. 1. 29, 30, 31.</note> 
+               <hi>us wiſedom, and righteouſneſſe, and ſanctification, and redem<g ref="char:EOLhyphen"/>ption, that no fleſh ſhould glory in his preſence, that according as it is written, He that glorieth let him glory in the Lord:</hi> Our <hi>All</hi> in tendency unto peace, comfort and glory, is therefore from Chriſt, according to divine project and purpoſe, that man when at the higheſt might be abaſed in himſelf, being neceſſitated to acknowledge that all his advantagious in<g ref="char:EOLhyphen"/>comes, both in regard of glory begun on earth, and com<g ref="char:EOLhyphen"/>pleated in heaven, are from Chriſt.</p>
+            <p>Now that I may more clearly advance Gods rich grace and free mercy in bringing beleevers to glory by Chriſt; I heartily deſire that theſe three things may be obſerved, <hi>viz.</hi>
+            </p>
+            <p>1. That Chriſt himſelf was the gift of God; <hi>
+                  <g ref="char:V">Ʋ</g>nto us a</hi>
+               <note place="margin">Iſa. 9. 6.</note> 
+               <hi>Sonne is given,</hi> ſaith the Goſpel-Prophet; And our Saviour himſelf in his conference with the woman of <hi>Samaria,</hi> cal<g ref="char:EOLhyphen"/>leth himſelf <hi>That gift of God,</hi> by way of ſuperlative emi<g ref="char:EOLhyphen"/>nency<note place="margin">Ioh. 4. 10.</note> being the richeſt and freeſt gift that ever God beſtow<g ref="char:EOLhyphen"/>ed upon the children of men.</p>
+            <pb n="17" facs="tcp:118362:13"/>
+            <p>2. That the grace of faith whereby the Soul receiveth Chriſt and happineſſe by him, is the free gift of God likewiſe. <hi>To you</hi> (ſaith Saint <hi>Paul</hi> to the <hi>Philippians) it is given to be<g ref="char:EOLhyphen"/>leeve;</hi>
+               <note place="margin">Phil. 1. 29. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Act. 18. 27.</note> The Originall ſuggeſts, that it was given of grace, which our Tranſlation doth elſewhere expreſſe: <hi>Apollo</hi> is ſaid <hi>to help them much who had beleeved through grace;</hi> And this our Apoſtle in his Epiſtle to the <hi>Romans,</hi> affirming that our Juſtification is from mercy, not merit, addeth theſe words, <hi>Therefore it is of faith, that it might be of grace.</hi>
+               <note place="margin">Rom. 4. 16.</note>
+            </p>
+            <p>4. That all our ſpirituall priviledges received from Chriſt himſelf, are from him upon terms of mercy and grace. <hi>For<g ref="char:EOLhyphen"/>giveneſſe</hi>
+               <note place="margin">Eph. 1. 7. Tit. 3. 7. Eph. 1. 6. Joh. 17. 22. Jude 21.</note> 
+               <hi>of ſin is according to the riches of his grace; We are juſtified by his grace; We are accepted in the beloved, to the praiſe of the glory of his grace.</hi> And himſelf in his prayer to the Father ſaith, <hi>The glory which thou gaveſt me I have given them:</hi> Anſwerable hereunto is the advice of Saint <hi>Jude, Keep your ſelves in the love of God, looking for the mercy of our Lord Jeſus Chriſt unto eternall life.</hi> It's meer mercy, not merit, that holdeth up the heart in expectation of Heaven. All theſe particulars being put together will undenably evidence the ſtrength of this my Inference, <hi>viz.</hi> That <hi>Becauſe the Chriſti<g ref="char:EOLhyphen"/>ans hope of glory is rooted in Chriſt, therefore Heavens glory with all the requiſites belonging thereto are from grace and mer<g ref="char:EOLhyphen"/>cy.</hi> And this will make way for the Uſe following.</p>
+            <p>To perſwade Chriſtians, <hi>the heirs of glory,</hi> to praiſe God <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>4</label> for Jeſus Chriſt, becauſe all their hopes do ſpring from him, As <hi>Simeon</hi> expecting ſalvation by Chriſt, <hi>bleſſed God;</hi> All<note place="margin">Luk. 2. 28.</note> our hearts ſhould breathe forth Saint <hi>Peters</hi> doxology; <hi>Bleſſed be the God and Father of our Lord Jeſus Chriſt, who</hi>
+               <note place="margin">1. Pet. 1. 3, 4.</note> 
+               <hi>according to his abundant mercy hath begotten us again unto a lively hope, by the Reſurrection of Jeſus Chriſt from the dead, to an Inheritance incorruptible, and undefiled, and that fadeth not away, reſerved in heaven for you:</hi> Hence I might note to quicken gratitude, 1. The admirable worth of the inheritance in glory which hope expecteth, <hi>viz<g ref="char:punc">▪</g> an Inheritance incorrup<g ref="char:EOLhyphen"/>tible, undefiled, that fadeth not away.</hi> 2. The means whereby this hope is begotten in us, <hi>viz. the death and reſurrection of Chriſt.</hi> 3. And the motive moving the Lord in this way to
+<pb n="18" facs="tcp:118362:14"/> give us ground of hope, <hi>viz. His abundant mercy.</hi> In all which regards it may well become us to joyn with our ſouls in <hi>Zacharies</hi> Song, <hi>Bleſſed be the Lord God of Iſrael, for he</hi>
+               <note place="margin">Luk. 1. 68, 69.</note> 
+               <hi>hath viſited and redeemed his people, and hath raiſed up an horn of ſalvation for us in the houſe of his ſervant</hi> David. This thankfulneſſe may be perſwaded by a double conſideration, the one more generall and the other more particular. In ge<g ref="char:EOLhyphen"/>nerall, becauſe this ground of hope is revealed to us Gen<g ref="char:EOLhyphen"/>tiles, and that upon no other account but Gods good plea<g ref="char:EOLhyphen"/>ſure; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his is M. <hi>Bains</hi> his Obſervation from the words be<g ref="char:EOLhyphen"/>fore the Text: <hi>God maketh known what is the riches of the glory of this myſtery among the Gentiles;</hi> This was an high priviledge peculiar to the Jews, that <hi>to them were committed the</hi>
+               <note place="margin">Rom. 3. 1. Eph. 1. 9.</note> 
+               <hi>Oracles of God;</hi> but how much greater is our preferment in theſe times, God having made known unto us <hi>the myſtery of his will, according to his good pleaſure which he purpoſed in himſelf!</hi> And the Apoſtle elſewhere diſcourſing of ſome differences betwixt Old-Teſtament and New-Teſtament diſ<g ref="char:EOLhyphen"/>penſations, telleth us, that the Goſpel bringeth in a <hi>better hope by which we draw nigh to God.</hi> More particularly in<note place="margin">Heb. 7. 19.</note> reference to our own perſons take notice of theſe things.</p>
+            <p n="1">1. That the revelation of this ſhould reach our under<g ref="char:EOLhyphen"/>ſtandings, when multitudes of more pregnant capacities<note place="margin">Mat. 11. 25, 26</note> continue ignorant hereof; <hi>I thank thee O Father</hi> (ſaid Chriſt) <hi>Lord of Heaven and Earth, becauſe thou haſt hid theſe things from the wiſe and prudent, and haſt revealed them unto Babes, Evenſo Father, for it ſeemeth good in thy ſight.</hi>
+            </p>
+            <p n="2">2. That we do not only perceive, but alſo participate per<g ref="char:EOLhyphen"/>ſonally in this hope through Jeſus Chriſt; whereas there are millions whoſe heads are full of this light, and yet their hearts are empty of this lively hope of glory by Chriſt. <hi>And if I by grace be a partaker</hi> (ſaith Saint <hi>Paul) I give God</hi>
+               <note place="margin">1 Cor. 10. 30.</note> 
+               <hi>thanks.</hi>
+            </p>
+            <p n="3">3. That <hi>the riches of the glory of this Inheritance hoped for by the Saints</hi> is unexpreſſible. And that we may be abun<g ref="char:EOLhyphen"/>dantly<note place="margin">Eph. 1. 18.</note> thankfull for this hope in Chriſt, as we ſhould pray for a more clear apprehenſion thereof, ſo ſhould we endea<g ref="char:EOLhyphen"/>vour to know aſſuredly our peculiar intereſt therein, by
+<pb n="19" facs="tcp:118362:14"/> finding the Lord Jeſus dwelling in our hearts by his Spirit: Becauſe my Text tels us, That <hi>Chriſt in us is the hope of glo<g ref="char:EOLhyphen"/>ry,</hi> which is the next and laſt Doctrine here conſiderable.</p>
+            <p>
+               <hi>That Chriſt by being in beleevers, is unto them the hope of</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>4</label> 
+               <hi>glory. The exiſtency of Chriſt in beleeving Chriſtians giveth exiſtency to their hopes of glory.</hi> This connexion of <hi>Chriſt in them and of their glory through him,</hi> is conſiderable in his moſt heavenly Prayer, in which having ſpoken of the glory gi<g ref="char:EOLhyphen"/>ven unto them, with the ſame breath (as it were) he ſug<g ref="char:EOLhyphen"/>geſts<note place="margin">Joh. 17. 22, 23. <hi>
+                     <g ref="char:V">Ʋ</g>nde colligi<g ref="char:EOLhyphen"/>mus, nos unum cum Chriſto eſſe, non quia ſuam in nos ſubſtanti<g ref="char:EOLhyphen"/>am transfundat, ſed quia Spiritus ſui virtute no<g ref="char:EOLhyphen"/>biſcum vitam ſuam, &amp; quic<g ref="char:EOLhyphen"/>quid accepit a Patre bonorum communicet.</hi> Calvin <hi>in</hi> Joh. 17. 22. Act. 20. 28. 2 Cor. 5. 19.</note> his being in them, <hi>The glory which thou gaveſt me I have given them, that they may be one even as we are one, I in them,</hi> &amp;c. Before I proceed in the further handling of this doctrine; Theſe words which ſpeak the in-being of Chriſt in Chriſtians, do call for ſome explication: Therefore let us enquire 1. Both what the phraſe doth not, 2. And what it doth hold forth to our conſideration.</p>
+            <p>Firſt, It doth not intimate ſuch a being of Chriſt in any Chriſtian, as of the Godhead in Chriſt, by reaſon whereof Godhead and Manhood in Chriſt made one perſon; in re<g ref="char:EOLhyphen"/>gard whereof he was from his conception abſolutely free from the leaſt tincture of ſinne, and was made able to com<g ref="char:EOLhyphen"/>pleat the work of Mediatorſhip, both by bearing up under the infinite weight of Gods diſpleaſure without ſinking, and alſo to give ſufficient vertue and value unto his obedience active and paſſive, that it might be ſatisfactory and me<g ref="char:EOLhyphen"/>ritorious.<note place="margin">Gal. 4. 6. Eph. 2. 22. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Joh. 1. 12.</note> But it doth ſuggeſt Chriſts peculiar abode in beleevers <hi>by his Spirit</hi> being received by faith, where<g ref="char:EOLhyphen"/>by he dwelleth and operateth ſpiritually in their hearts,<note place="margin">
+                  <hi>Naturae nomen, hic non ſubſtan<g ref="char:EOLhyphen"/>tiam, ſed quali<g ref="char:EOLhyphen"/>tatem deſignat. Naturae divinae mundi corrupti<g ref="char:EOLhyphen"/>onem opponit; <g ref="char:V">Ʋ</g>t ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us unum cum Deo, quan<g ref="char:EOLhyphen"/>tum modulus noſter f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ret.</hi> Calvio <hi>in</hi> 2 Pet. 1. 4.</note> which union betwixt him and them doth in ſome mea<g ref="char:EOLhyphen"/>ſure by way of ſimilitude, though not fully in way of parity, repreſent the union betwixt his father and him<g ref="char:EOLhyphen"/>ſelf. And whereas the Apoſtle <hi>Peter</hi> ſpeaketh of our be<g ref="char:EOLunhyphen"/>ing <hi>made partakers of the divine nature,</hi> 2 Pet. 1. 4. which words are much abuſed. There are two things notable from that Scripture to manifeſt the difference betwixt Chriſt and Chriſtians in that participation. 1. The words are not, we are made partakers of the <hi>God-head,</hi> but of the divine na<g ref="char:EOLhyphen"/>ture, <hi>viz.</hi> of the qualities of God, according to our capa<g ref="char:EOLhyphen"/>city,
+<pb n="20" facs="tcp:118362:15"/> whereby we <hi>eſcape that corruption which is in the world through luſt,</hi> and do in holy diſpoſitions reſemble God ſo far as ſuch creatures can: As <hi>David</hi> ſpeaketh of ſhewing the <hi>kindeneſſe of God</hi> unto <hi>Jonathans</hi> poſterity, 2 <hi>Sam.</hi> 20. 15. whereas God-head it ſelf was in ſuch ſort in Chriſt, 1 <hi>Tim.</hi> 3. 16. that he was <hi>God bleſſed for ever,</hi> Rom. 9. 5. coequall with God the Father, <hi>Phil.</hi> 2. 6. 2. The Apoſtle <hi>Peter</hi> is open and expreſſe that Chriſtians are partakers of the divine na<g ref="char:EOLhyphen"/>ture (in the ſenſe aforeſaid) by means of the <hi>exceeding great and precious promiſes</hi> of Gods grace; whereas Chriſt was God by an eternall, naturall, unexpreſſible generation.</p>
+            <p>Having thus briefly explicated the expreſſion in the Text, and the like uſed by our Saviour, I proceed to the handling of the point of doctrine here propounded: And becauſe the doctrine hath two branches, the one neceſſarily implied, the other openly expreſſed, I ſhall diſtinctly ſpeak unto them both.</p>
+            <p>The truth implied in the firſt branch of the doctrine is<note place="margin">
+                  <hi>1. Branch of Doctrine.</hi> Joh. 1. 12. Eph. 3. 17.</note> this, <hi>viz.</hi> that <hi>Chriſt is in Beleevers;</hi> As beleevers <hi>do receive him,</hi> ſo he <hi>dwelleth in their hearts by faith.</hi> And therefore it is noteable, that the Apoſtle having moved the <hi>Corinthians</hi> to prove themſelves <hi>whether in the faith,</hi> he addeth, <hi>Know</hi>
+               <note place="margin">2 Cor. 13. 5.</note> 
+               <hi>ye not that Jeſus Chriſt is in you?</hi> This in-being of Chriſt in beleevers is to be underſtood, not of an abode in them (or any where elſe on earth) corporally, for in that ſenſe <hi>the Heavens muſt receive him until the time of the reſtitution of</hi>
+               <note place="margin">Act. 3. 21.</note> 
+               <hi>all things;</hi> but of an habitation ſpirituall, according to the teſtimony of the Apoſtle; <hi>Becauſe ye are Sonnes, God hath</hi>
+               <note place="margin">Gal. 4. 6.</note> 
+               <hi>ſent forth the Spirit of his Sonne into your hearts;</hi> Thereby intending to teach us, that Chriſt is in beleeving Chriſtians ſpiritually.</p>
+            <p>And this truth is by various metaphors ſuggeſted in the holy Scriptures. 1. By being compared unto ſhowrs which deſcending from heaven, do ſink and ſoak into the bowels of the earth, <hi>He ſhall come down like rain.</hi> 2. And <hi>his Name</hi>
+               <note place="margin">Pſa. 72. 6. Cant. 1. 3. Pſa. 109. 18.</note> 
+               <hi>is like unto ointment poured forth,</hi> which worketh it ſelf <hi>into the bones,</hi> not ſtaying upon the outſide of the perſon recei<g ref="char:EOLhyphen"/>ving it. 3. He is <hi>meat and drink indeed</hi> unto the ſoul, from<note place="margin">Joh. 6. 55, 56.</note>
+               <pb n="21" facs="tcp:118362:15"/> whence he himſelf concludeth my doctrine, <hi>He that eateth my fleſh and drinketh my bloud, dwelleth in me and I in him:</hi> 4. Hereto might be added that he is the ſoul of our ſouls, whereby we live ſpiritually; <hi>Chriſt is our Life.</hi> And mans life<note place="margin">Col. 3. 4. Dan. 7. 15.</note> is ſaid to be in him, 2 <hi>Sam.</hi> 1. 9. The body is called the <hi>ſheath of the Soul,</hi> which expreſſion hinteth, that the ſoul is in the bo<g ref="char:EOLhyphen"/>dy, as the ſword in the ſcabbard: In like manner Chriſt who is the Chriſtians life is in all them whom he enliveneth.</p>
+            <p>Having thus cleared the truth, that Chriſt is in beleeving <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> Chriſtians, I proceed to the application of it under three heads of Uſes.</p>
+            <p>Firſt, For Inſtruction in four particulars, 1. Hence the Godhead of Jeſus Chriſt may be concluded undeniably; for this ſpirituall ubiquity of Chriſt in the ſouls of all reall Saints in all the places of the world, cannot belong unto any meer creature whatſoever. This argument Saint <hi>Paul</hi> produced<note place="margin">Act. 17. 23, 24, 27, 28.</note> to diſtinguiſh the true God from all Idol-gods, <hi>He is not far from every one of us.</hi> Omnipreſence proveth Deity. And the concluſion followeth with like ſtrength, when beleevers aſ<g ref="char:EOLhyphen"/>ſert this truth, <hi>He is in every one of us.</hi>
+            </p>
+            <p>2. This diſcovereth the unparellel'd condeſcentions of Je<g ref="char:EOLhyphen"/>ſus Jeſus Chriſt, being willing to abaſe himſelf thus low as to be within poor ſinfull creatures. This was a matter of admi<g ref="char:EOLhyphen"/>ration<note place="margin">1 King. 8. 27. Mat. 8. 8.</note> unto <hi>Solomon, But will God indeed dwell on earth?</hi> The good Centurion ſaid, <hi>Lord, I am not worthy that thou ſhouldſt come under my roof;</hi> And the Pſalmiſt with much affection cal<g ref="char:EOLhyphen"/>leth upon all the ſervants of the Lord to praiſe him and<note place="margin">Pſa. 113. 1, 3, 5, 6.</note> praiſe him again upon this account; <hi>Who is like unto the Lord God? who dwelleth on high, who humbleth himſelf to behold the things that are in heaven and in the earth!</hi> Did God hum<g ref="char:EOLhyphen"/>ble himſelf in looking out of himſelf, off from his own infi<g ref="char:EOLhyphen"/>nite beauties and perfections, to view either men on earth or Angels and Saints in heaven? How much greater is this condeſcention in Chriſt to make his abode in the ſouls of ſinners? Let me here dart only two thoughts into your mindes. 1. That Chriſt <hi>came out of his Fathers boſome where he</hi>
+               <note place="margin">Joh. 1. 18. Prov. 8. 30.</note> 
+               <hi>was daily his delight rejoycing alwaies before him.</hi> 2. That the hearts of the beſt, upon earth wherein he inhabits, are like
+<pb n="22" facs="tcp:118362:16"/> dark dungeons, in regard of the clouds of ignorance not diſ<g ref="char:EOLhyphen"/>perſed,<note place="margin">1 Cor. 13. 12. Iſa. 64. 6.</note> and like unſavoury dunghils in reſpect of many noy<g ref="char:EOLhyphen"/>ſome luſts not fully ſubdued; Therefore gueſs with gratitude how low our bleſſed Lord doth ſtoop in being content to dwell in us, even in us every way ſo vile and ſo unworthy.</p>
+            <p>3. This giveth us to underſtand the dignity of all true be<g ref="char:EOLhyphen"/>leevers; As they are <hi>precious, excellent, more excellent then</hi>
+               <note place="margin">Iſa. 43. 4. Pſa. 16. 2. Prov. 12. 26.</note> 
+               <hi>others</hi> in many other reſpects (which I now have not occa<g ref="char:EOLhyphen"/>ſion to mention) ſo upon this account that the Lord Jeſus Chriſt is in them. <hi>Moſes</hi> the man of God judgeth <hi>Iſrael</hi> in this regard, in a condition farre better then any other peo<g ref="char:EOLhyphen"/>ple; <hi>For what Nation hath God ſo nigh unto them?</hi> And how<note place="margin">Deut. 4. 7.</note> much was <hi>Zacheus</hi> affected with the apprehenſion of this favour, this honour, when Chriſt promiſed to <hi>abide at his houſe?</hi> When he had climed into a tree to take a view of<note place="margin">Luk. 19. 5.</note> Chriſt, and Chriſt telleth him that he ſhould not only have a tranſient ſight of him, but alſo enjoy him as his gueſt, oh how was <hi>Zacheus</hi> (think you) elevated by this entertain<g ref="char:EOLhyphen"/>ment! Now <hi>ſuch</hi> (and greater) <hi>honour have all his Saints:</hi>
+               <note place="margin">Pſa. 149. 9.</note> It was no doubt a very great honour put upon the bleſſed Virgin <hi>Mary,</hi> both in <hi>her own account,</hi> and in the <hi>judgement</hi>
+               <note place="margin">Luk. 1. 42, 43, 48, 49.</note> 
+               <hi>of all Chriſtians,</hi> that ſhe did bear the holy body of Chriſt in her womb for a time, <hi>He that is mighty hath magnified me,</hi> and certainly the inhabitation of Chriſt by his Spirit in the ſouls of his ſervants, is not a priviledge inferiour.</p>
+            <p>4. This whiſpereth the madneſſe and miſery of all ſuch who do dare to make oppoſition againſt beleevers, for ſee<g ref="char:EOLhyphen"/>ing Chriſt is in them, therefore in ſo doing they ſeek (as it were) to pluck down Chriſt his houſe upon his head. I ſhall not enlarge this Uſe 1. Either by ſhewing the various waies whereby wrong is done unto the ſervants of the Moſt High, <hi>viz.</hi> by ſecret plots and open perſecutions, either by abating their comforts, or encreaſing their ſufferings, either by cor<g ref="char:EOLhyphen"/>rupting their judgements, or drawing them to ſin. 2. Or by manifeſting Chriſts knowledge and ſenſibleneſſe of theſe their injuries, together with his ſeverity againſt their ene<g ref="char:EOLhyphen"/>mies, witneſſed both by judgements threatned in his Word, and executed in the world from generation to generation:
+<pb n="23" facs="tcp:118362:16"/> But I only wiſh thoſe who are herein guilty, to minde the <hi>Item</hi> given by the Apoſtle <hi>Paul</hi> in his Epiſtle to the <hi>Corin<g ref="char:EOLhyphen"/>thians, If any man defile the Temple of God, him will God deſtroy,</hi>
+               <note place="margin">1 Cor. 3. 17.</note> 
+               <hi>for the Temple of God is holy, which Temple ye are.</hi>
+            </p>
+            <p>The ſecond Uſe is for the comfort of all true belee<g ref="char:EOLhyphen"/>vers, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> ſeeing Chriſt is in them; I remember what is re<g ref="char:EOLhyphen"/>corded concerning <hi>Paul,</hi> that the ſight of ſome Chriſti<g ref="char:EOLhyphen"/>an<note place="margin">Act. 28. 15.</note> brethren cheared him after a ſad ſhipwrack whom when <hi>Paul</hi> ſaw he took courage; And <hi>Caeſar</hi> cheared the droop<g ref="char:EOLhyphen"/>ing Mariners in a ſtorm by minding them of his pre<g ref="char:EOLhyphen"/>ſence, How much more ſhould the in-being of Chriſt ſolace the beleeving ſoul? 1. Becauſe of his authority and power to order all caſualties and concernments according to his pleaſure, whereas many times the beſt of creature-friends can do no more then pity and pray: Thus our Lord chear<g ref="char:EOLhyphen"/>ed his Apoſtles, <hi>All power is given unto me, and lo I am with</hi>
+               <note place="margin">Mat. 28. 18, 20</note> 
+               <hi>you alway even unto the end of the world.</hi> And it was a cor<g ref="char:EOLhyphen"/>diall to the Diſciples in a ſtorm that Chriſt was with them, whom the windes and waves muſt obey. 2. Becauſe this a<note place="margin">Mat. 8. 26, 27 Pſa. 132. 14.</note> bode of Chriſt ſpeaketh his complacency; This is M<hi rend="sup">r</hi> 
+               <hi>Bayns</hi> his Note upon the Text. A man cannot properly be ſaid to dwell in a priſon in which he taketh no delight: And this anſwereth a Scripture-expreſſion elſewhere, <hi>Here I will dwell for I have deſired it,</hi> (ſaith God of <hi>Sion</hi>) Though many times drooping Chriſtians, viewing their own beggarli<g ref="char:EOLhyphen"/>neſſe and vileneſſe, judge themſelves worthy to be deteſted and deſerted, and would relinquiſh themſelves if they could, yet <hi>Chriſt looketh to the poor and contrite ſoul</hi> as a meet habi<g ref="char:EOLhyphen"/>tation<note place="margin">Iſa. 66. 1, 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> for himſelf. 3. Becauſe he doth graciouſly communi<g ref="char:EOLhyphen"/>cate himſelf unto the ſoul where he reſideth, according to the neceſſities thereof; <hi>I dwell with him that is of a contrite</hi>
+               <note place="margin">Iſa. 57. 15.</note> 
+               <hi>and humble ſpirit, to revive the ſpirit of the humble, and to re<g ref="char:EOLhyphen"/>vive the contrite ones.</hi> When you reade this promiſe, remem<g ref="char:EOLhyphen"/>ber his ability and fidelity in theſe and all other kindes, to accommodate thoſe whom he inhabits to their compleating in the accompliſhment of his Mediatorſhip; Therefore doubtleſſe there cannot poſſibly be either any creature-want or danger, wherein the improvement of this in-dwelling of
+<pb n="24" facs="tcp:118362:17"/> Chriſt may not refreſh the beleeving Chriſtian. 4. Be<g ref="char:EOLhyphen"/>cauſe<note place="margin">
+                  <hi>Nunquam mi<g ref="char:EOLhyphen"/>nus ſolus quam cum ſolus max<g ref="char:EOLhyphen"/>imè.</hi> Gen. 39. Pſal. 63. Act. 23. 10, 11</note> this will be conſtantly and abundantly relieving in times of the greateſt ſolitarineſſe, though in baniſhment, or the cloſeſt impriſonment, and at the greateſt diſtance from the deareſt friends: <hi>Joſeph</hi> in <hi>Egypt, David</hi> in the wil<g ref="char:EOLhyphen"/>derneſſe, and <hi>Paul</hi> priſoner in the Caſtle, were admirably cheared by this company; And Chriſt is now and will be evermore the ſelf-ſame in his ſervants for their conſo<g ref="char:EOLhyphen"/>lation.</p>
+            <p>The third Uſe is for Exhortation, to perſwade Beleevers <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> unto a double duty.</p>
+            <p n="1">1. To purge all diſcovered pollution out of themſelves, becauſe of Chriſts ſpeciall reſidence in them. This Uſe the Apoſtle <hi>Paul</hi> maketh of this doctrine, for having ſaid to the<note place="margin">2 Cor. 6. 16. &amp; 7. 1.</note> 
+               <hi>Corinthians, Ye are the Temple of the living God, as God hath ſaid, I will dwell in them and walk in them,</hi> he addeth, <hi>Having therefore theſe Promiſes, Dearly Beloved, let us clenſe our ſelves from all filthineſſe of the fleſh and ſpirit;</hi> This was one charge which God gave unto old <hi>Iſrael,</hi> in a military condition, that all bodily filth ſhould be buried under ground, and this is rendred as the reaſon, <hi>For the Lord thy God walketh in the midſt</hi>
+               <note place="margin">Deu. 23. 13, 14</note> 
+               <hi>of thee, therefore ſhall thy Camp be holy, that he ſee no unclean thing in thee;</hi> Oh that Chriſtians would in this reſpect op<g ref="char:EOLhyphen"/>poſe inward defilements, and not outward pollutions only. How carefull are we to ſweep and waſh away whatſoever might be offenſive unto our Friends in the rooms where we lodge them? And what gueſt can ſo well deſerve welcome as Jeſus Chriſt, unto whom all ſinne is <hi>abominable,</hi> he being<note place="margin">Prov. 8. 7.</note> the holy One of God? Be not ſatisfied therefore with fair faces and white hands, but labour to make and to keep the in-ſide clean alſo.</p>
+            <p n="2">2. To prepare for Chriſts contentfull entertainment in their boſomes; Who is not willing to be at coſt in providing<note place="margin">Luk. 5. 29.</note> both food and furniture fitting for the welcoming of worthy friends? It's ſaid, <hi>Levi made Chriſt a great Feaſt in his own houſe;</hi> yea, <hi>Solomon</hi> brings in the whoriſh woman, report<g ref="char:EOLhyphen"/>ing<note place="margin">Prov. 7. 16, 17.</note> her proviſions made for the young man whom ſhe ſolli<g ref="char:EOLhyphen"/>cited to lewdneſſe, <hi>I have deck'd my bed with coverings of
+<pb n="25" facs="tcp:118362:17"/> Tapestry, with carved works, and fine linen of Egypt; I have perfumed my bed with Myrrh, Aloes and Cinamon.</hi> And ſhould not a principle of pure love to Chriſt prevail with Chriſtians to do more then ſordid luſts do with the bruitiſh children of men? If you demand what is the proviſion to be laid in for Chriſt his welcome; The Apoſtle telleth you, it is <hi>perfecting holineſſe in the fear of God,</hi> which practice alſo,<note place="margin">2 Cor. 7. 1.</note> he moveth by the argument under-hand (as was hinted in the former branch of the Exhortation.) By the encreaſing and acting of all the graces of the holy Ghoſt, Chriſt will be abundantly contented. This is intended by theſe meta<g ref="char:EOLhyphen"/>phoricall expreſſions of the Spouſe unto Chriſt, <hi>At our</hi>
+               <note place="margin">Cant. 7. 13.</note> 
+               <hi>gates are all manner of pleaſant fruits, new and old, which I have laid up for thee O my Beloved; I would cauſe thee to drink</hi>
+               <note place="margin">Cant. 8. 2.</note> 
+               <hi>of ſpiced wine, of the juyce of my Pomegranate.</hi> And take this encouragement all you drooping ſouls, who are low and little in your own eyes, judging nothing of your graces wor<g ref="char:EOLhyphen"/>thy Chriſts acceptance, or meet for his entertainment, that his Loves will take in good part, that which with ſincere good-will you ſhall provide and make tender of with re<g ref="char:EOLhyphen"/>ſpect unto his content. <hi>I will ſup with you</hi> (ſaith he to the<note place="margin">Rev. 3. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> Church.) And upon the invitation of the Spouſe, thus expreſſed, <hi>Let my Beloved come into his garden and eat his plea<g ref="char:EOLhyphen"/>fant</hi>
+               <note place="margin">Cant. 4. 16.</note> 
+               <hi>fruit,</hi> This anſwer ſpeaking good acceptance is return<g ref="char:EOLhyphen"/>ed, <hi>I am come into my garden, my Siſter, my Spouſe, I have ga<g ref="char:EOLhyphen"/>thered</hi>
+               <note place="margin">Cont. 5. 1.</note> 
+               <hi>my Myrrh with my Spice, I have eaten my honey-comb with my honey, I have drunk my wine with my milk:</hi> Oh how ready with chearfulneſſe is the Lord Jeſus to own and ac<g ref="char:EOLhyphen"/>cept all graces, notwithſtanding their defects and mixtures in the boſomes of them whom he doth inhabite! This there<g ref="char:EOLhyphen"/>fore ſhould both quicken and embolden poor beleeving ſouls to lay in and lay out for his ſatisfaction who is pleaſed to abide in them.</p>
+            <p>I proceed to the ſecond branch of the Doctrine, which is<note place="margin">2. Branch of Doctrine.</note> the truth openly expreſſed, <hi>viz.</hi> That the exiſtency of Chriſt in Beleevers, giveth exiſtence unto their hopes of glory.</p>
+            <p>If the reaſons hereof be demanded, I anſwer,</p>
+            <p>Becauſe Chriſt his ſpirituall preſence in us, is Gods ear<g ref="char:EOLhyphen"/>neſt
+<pb n="26" facs="tcp:118362:18"/> of glory. The Apoſtle is expreſſe for this: Having<note place="margin">
+                  <hi>In arrahbone, ut pignus.</hi> Dickſon on the Text. 2 Cor. 5. 5.</note> mentioned the longings of Saints <hi>to be ſwallowed up of life,</hi> he addeth, <hi>Now he that hath wrought us for the ſelf ſame thing is God, who alſo hath given unto us the earneſt of the Spirit.</hi> Therefore if Gods own earneſt may give good hope, then Chriſt in beleeving Chriſtians giveth good hope of glory, eſpecially becauſe the earneſt it ſelf is of ſo great value, the receiving whereof is happineſſe begun upon earth.</p>
+            <p>2. Becauſe of that near relation and cloſe union which is betwixt Chriſt and them, whom he inhabiteth, They are not only related unto him, as ſervants unto their Maſter, though that would give ground of good hope. Seeing he himſelf who is taken up into glory, hath ſaid, <hi>Where I am, there ſhall my ſervant be.</hi> Neither are they only one with him,<note place="margin">Ioh. 12. 26. Joh. 15 5. Col. 1. 18. Epheſ. 1. 23.</note> 
+               <hi>He in them, and they in him, as the branches in the Vine.</hi> But he is united unto beleevers <hi>as the head unto the body,</hi> which is called his <hi>fullneſſe.</hi> Therefore if there be hope that Chriſt will have a compleat body without the defect of any mem<g ref="char:EOLhyphen"/>ber in heaven, or that every individuall member of Chriſt his myſticall body ſhall be glorified, then Chriſt in beleevers is the infallible hope of glory.</p>
+            <p>3. Becauſe Chriſt by abiding in Beleevers doth prepare them for participation in glory. The Apoſtle <hi>Paul</hi> is clear in his expreſſions to this purpoſe. <hi>Ye are not in the fleſh, but in the Spirit, if ſo be that the Spirit of God dwell in you, and if Chriſt be in you the body is dead becauſe of ſin, but the Spirit is life</hi>
+               <note place="margin">Rom. 8. 9, 10, 11.</note> 
+               <hi>becauſe of righteouſneſſe; But if the Spirit of him that raiſed up Jeſus from the dead, dwell in you, he that raiſed up Chriſt from the dead ſhall alſo quicken your mortall bodies by his Spirit that dwelleth in you.</hi> Whereſoever Chriſt dwels ſpiritually, his Spirit operateth effectually for the ſubduing of ſinfull principles, and for the advancing of the power of ſanctifica<g ref="char:EOLhyphen"/>tion; And thus he <hi>preparing the veſſels of mercy for glory,</hi> and <hi>making them meet to be made pantakers of the inheritance of</hi>
+               <note place="margin">Rom. 8. 23. Col. 1. 12.</note> 
+               <hi>Saints in light,</hi> he giveth them ſure hope of glory.</p>
+            <p>This by way of application may ſerve as a good touch<g ref="char:EOLhyphen"/>ſtone <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> to try the truth of heavens hopes. Not Chriſt in the Sermons which we hear, nor Chriſt in the Chapters which
+<pb n="27" facs="tcp:118362:18"/> we reade, nor Chriſt in the Sacrament which we receive will adminiſter ground of hope of future glory. Though Chriſt be in our heads by high notions, and in our mouths by fre<g ref="char:EOLhyphen"/>quent, glorious expreſſions, yet if he be not in our boſomes by ſpirituall inhabitation, he is not unto us the hope of glo<g ref="char:EOLhyphen"/>ry: It is ſaid of hypocrites, that <hi>God is near in their mouths</hi>
+               <note place="margin">Jer. 12. 2. Mat. 15. 8.</note> 
+               <hi>but farre from their reins.</hi> And that <hi>with their lips they honour him, but their heart is farre from him.</hi> At the laſt day many ſhall pleade their profeſſion of Chriſt, calling him Lord, Lord, and talking of great works done in his Name, who yet ſhall ſhall be rejected with doleful diſappointments, <hi>I will profeſſe unto them</hi> (ſaith Chriſt) <hi>I never knew you, depart from</hi>
+               <note place="margin">Mat. 7. 23.</note> 
+               <hi>me;</hi> Here then the queſtion will be, how may Chriſt his be<g ref="char:EOLhyphen"/>ing in us be diſcovered? I anſwer briefly. 1. By the grace of<note place="margin">
+                  <hi>Per fidem habi<g ref="char:EOLhyphen"/>tans, &amp; virtute ſua agens.</hi> Hunnius <hi>in Text.</hi> Joh. 1. 12.</note> faith whereby he is received. 2. By the room into which he is welcomed. 3. And by the effects of his entertainment. Firſt, Whereas true Beleevers <hi>are the only receivers of Jeſus Chriſt.</hi> This faith will evidence it ſelf, partly by the incom<g ref="char:EOLhyphen"/>parable value which it puts upon Chriſt. <hi>To you who beleeve</hi> (ſaith the Apoſtle <hi>Peter) he is precious,</hi> and partly by oppoſing<note place="margin">1 Pet. 2. 7.</note> and purging out ſinfull pollution, that Chriſt may not be an<g ref="char:EOLhyphen"/>noyed by it: <hi>The heart is purified by faith,</hi> Therefore ask your<note place="margin">Act. 15. 9.</note> ſelves, as in Gods preſence, whether there be any thing in the world which you prize more then Chriſt, or ſo much as Chriſt, and whether you do indulge any wickedneſs within your bo<g ref="char:EOLhyphen"/>ſomes, without bitter complaints and vigorous oppoſition.</p>
+            <p>Secondly, <hi>Chriſt dwelleth in the heart by faith.</hi> The Spouſe<note place="margin">Eph. 3. 17. Can. 1. 13.</note> ſaith, <hi>He ſhall lie as a bundle of Myrrhe betwixt my breaſts.</hi> Therefore conſider, into what place Chriſt is welcomed. Do you admit him into ſome out-houſe only? As at his birth, he was <hi>laid in a manger, becauſe there was no room for him in</hi>
+               <note place="margin">Luk. 2. 7.</note> 
+               <hi>the Inne;</hi> Or do you put him into a cock-loft only? I mean, Do you only fill your fancies with notions, and tip your tongues with talk of Chriſt, or is he indeed received with warm welcome into your hearts, by longings, loves and re<g ref="char:EOLhyphen"/>joycings?</p>
+            <p>Thirdly, Whereas Chriſt is influentially operative in the ſoul where he reſideth, as the ſoul in the body where it is.
+<pb n="28" facs="tcp:118362:19"/> 
+               <hi>Chriſt is our life</hi> (ſaith <hi>Paul) and I am crucified with Chriſt, Nevertheleſſe I live, yet not I, but Chriſt liveth in me.</hi> Enquire<note place="margin">Col. 3. 4 Gal. 2. 20.</note> therefore exactly whether by ſuch ſpirituall breathings, ſenſe and motions, as were in Jeſus Chriſt, whileſt upon earth, you can make out your union and communion with him. <hi>He</hi>
+               <note place="margin">1 Joh. 2. 6.</note> 
+               <hi>that ſaith, he abideth in him, ought himſelf alſo ſo to walk, even as he walked;</hi> what gaſpings are in you after conformity to Gods will and the glory of his Name! what ſighs under ſin with the expreſſions of divine diſpleaſure! what compla<g ref="char:EOLhyphen"/>cency in Gods ſervice, and the ſmiles of his face, in the uſe of holy Ordinances! what motions, what progreſſe do you endeavour to make, from ſinne, towards God, in the morti<g ref="char:EOLhyphen"/>fying of inward luſts, and the advancing of the power of godlineſſe in your converſations? Sincere anſwers returned unto ſuch like demands, will ſuggeſt whether Chriſt be effi<g ref="char:EOLhyphen"/>caciouſly preſent in you.</p>
+            <p>This truth adminiſtreth matter of much comfort unto all <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> them who finde upon due examination the Lord Jeſus dwel<g ref="char:EOLhyphen"/>ling in them. When <hi>Zacheus</hi> heard that Chriſt would <hi>abide</hi>
+               <note place="margin">Luk. 19. 6.</note> 
+               <hi>in his houſe, he received him joyfully.</hi> Greater cauſe of joy have they who have already lodged him in their hearts. Now to quicken the belevevers joy upon that account, <hi>viz.</hi> that Chriſt in them is the hope of glory, theſe comfortable con<g ref="char:EOLhyphen"/>ſequences may be conſidered.</p>
+            <p n="1">1. Hence they may aſſuredly expect the ſupply of all out<g ref="char:EOLhyphen"/>ward wants, whether they look upon themſelves, as poſſeſ<g ref="char:EOLhyphen"/>ſed of Chriſt, or entitled by him unto glory. The holy Scri<g ref="char:EOLhyphen"/>pture holds forth this inference as deducible from both theſe grounds. Chriſt is the owner, the heir of all things, and therefore if God hath given us his Sonne, <hi>how ſhall he not with him freely give us all things?</hi> And if the Lord by the right<note place="margin">Rom. 8. 32.</note> of Chriſt hath been pleaſed to give intereſt in heavens glory, he will certainly vouchſafe all earthly needfull accommodati<g ref="char:EOLhyphen"/>ons; This concluſion Chriſt himſelf gathers from the pre<g ref="char:EOLhyphen"/>miſes. <hi>Fear not little Flock, for it is your Fathers good plea<g ref="char:EOLhyphen"/>ſure</hi>
+               <note place="margin">Luk. 12. 32.</note> 
+               <hi>to give you the Kingdom.</hi> And the Apoſtle doth from the ſame Argument aſſert the miniſtration of Angels for their advantage. <hi>Are they not all miniſtring Spirits ſent forth to</hi>
+               <note place="margin">Heb. 1. 15.</note>
+               <pb n="29" facs="tcp:118362:19"/> 
+               <hi>miniſter for them who ſhall be heirs of ſalvation?</hi> Therfore aſſu<g ref="char:EOLhyphen"/>rance of proviſion and protection is hence clearly deducible.</p>
+            <p n="2">2. Upon the ſame account they may be confident of their final perſeverance. The Apoſtle <hi>Peter</hi> having aſſerted the hope which the Regenerate have of this glorious Inheri<g ref="char:EOLhyphen"/>tance referved in heaven for them, he addeth Gods care to preſerve them unto the poſſeſſion thereof; <hi>who are kept</hi>
+               <note place="margin">1 Pet. 1. 4, 5, 13.</note> (ſaith he) <hi>by the power of God through faith unto ſalvation:</hi> and from hence encourageth this confidence; <hi>Wherefore gird up the loins of your mindes, and hope to the end, for the grace that is to be brought unto you, at the revelation of Jeſus Chriſt.</hi> There are but two things (as I conceive) which can poſſibly endanger their falling ſhort of hoped-for glory, <hi>viz.</hi> either their own corruptions within, or their oppoſitions from without. Now Chriſt being in them, and taking the care of them, doth ſecure their ſouls from both, as is manifeſt from his own words, <hi>I give them eternal life, and they ſhall never pe<g ref="char:EOLhyphen"/>riſh,</hi>
+               <note place="margin">Joh. 10. 28.</note> 
+               <hi>neither ſhall any man pluck them out of my hand.</hi> The gloſſe which reverend holy M<hi rend="sup">r</hi> 
+               <hi>Dod</hi> gave of this Scripture, was this; Whereas Sheep are endangered either from ſomewhat with<g ref="char:EOLhyphen"/>in them, <hi>viz.</hi> by the rot, or ſome diſeaſe to which ſubject, or from ſomewhat without them, <hi>viz.</hi> by dogs and beaſts of prey: Our Saviour promiſeth, that the <hi>Sheep</hi> of his fold ſhall not miſcarry finally from either of theſe dangers. And Chriſt annexeth an argument which holds invincible againſt all ad<g ref="char:EOLhyphen"/>verſe power whatſoever, whether within or without, whe<g ref="char:EOLhyphen"/>ther on earth or in hell; <hi>My Father which gave them me,</hi>
+               <note place="margin">ve. 29. Rom. 8. 35, 37.</note> 
+               <hi>is greater then All;</hi> Upon this bottome Saint <hi>Paul</hi> builds his triumph; <hi>Who ſhall ſeparate us from the love of Chriſt? Shall tribulation or diſtreſſe, or perſecution, or famine, or nakedneſſe, or perill, or ſword? Nay, in all theſe things we are more then conquerors through him that loved us.</hi>
+            </p>
+            <p n="3">3. Therefore nothing which is conſiſtible with Chriſts re<g ref="char:EOLhyphen"/>ſidence in a Chriſtians boſome ſhould ſhake his hope of glo<g ref="char:EOLhyphen"/>ry. Neither weakneſſe of graces, nor ſtrength of luſts, nei<g ref="char:EOLhyphen"/>ther the aſſaults of Satan, how horrid, violent, frequent ſo<g ref="char:EOLhyphen"/>ever, nor imperfections in holy performances, how many, or conſtant ſoever, which militate againſt the beleevers aſſu<g ref="char:EOLhyphen"/>rance,
+<pb n="30" facs="tcp:118362:20"/> ſhould ſink either hope or heart, except Chriſts utter abſence from the ſoul could from thence be undeniably con<g ref="char:EOLhyphen"/>cluded. The Apoſtle <hi>Paul</hi> having mentioned his conſtant conflict and his frequent foyls in the 7. of the <hi>Romans,</hi> yet addes in the end of the Chapter, his joy in Chriſt, <hi>I thank God through Jeſus Chriſt;</hi> and aſſerts in the beginning of the Chapter following; <hi>There is no condemnation unto them who are in Chriſt Jeſus. Auguſtine</hi> while Chriſt was in his<note place="margin">Deſperare non audeo. Per quem glo<g ref="char:EOLhyphen"/>riam vitae aeter<g ref="char:EOLhyphen"/>nae expectare debetis. <hi>Vatab.</hi> in Text.</note> eye, ſaid, <hi>I dare not deſpond.</hi> And Chriſtians ſhould both with reſpect unto Chriſts honour and their own comfort, make conſcience, not to yield to dejecting doubts, or perplexing fears, in reference to their glory in heaven, while the mat<g ref="char:EOLhyphen"/>ter of their complaints is no more then may poſſibly be found in the ſoul where Chriſt dwelleth. Certainly if doubt<g ref="char:EOLhyphen"/>ing Chriſtians would carefully hold unto this direction, maintaining and bottoming their hopes in Chriſt, multi<g ref="char:EOLhyphen"/>tudes of ſcruples might eaſily be anſwered, and their eviden<g ref="char:EOLhyphen"/>ces for heaven would be better preſerved, and their conſtant comfort well ſecured. This <hi>anchor of hope</hi> thus caſt out<note place="margin">Heb. 6. 19.</note> and faſtening upon Chriſt, would be admirably uſefull, when billows of temptations (as in a tempeſt) beat upon the belee<g ref="char:EOLhyphen"/>ving ſoul; And the <hi>Helmet of this hope</hi> thus uſed would keep<note place="margin">1 Theſ, 5. 8.</note> off many blows, whereby the comforts of diſtruſtfull ſpirits are ſadly battered.</p>
+            <p n="4">4. This may be a precious cordiall to the beleever upon his death-bed; It was reviving unto old <hi>Simeon,</hi> being ready to leave the word, <hi>Then he took Chriſt in his Arms, and bleſ<g ref="char:EOLhyphen"/>ſed</hi>
+               <note place="margin">Luk. 2. 28, 29, 30.</note> 
+               <hi>God, and ſaid, Now letteſt thou thy Servant depart in peace, for mine eyes have ſeen thy ſalvation.</hi> How many and how ſweet ſoever our contentments are upon earth, of which<note place="margin">
+                  <hi>Gaudium in ſpe magnum in replenum,</hi> Aug. Phil. 1. 21. 23.</note> death will deprive us, yet Chriſt being in us the hope of glory, <hi>to die will be gain,</hi> and <hi>to be with Chriſt will be farre better.</hi> And who is not cheerfully willing in a way of ſelf<g ref="char:EOLhyphen"/>love, to part with that which is worſe for what is much better?</p>
+            <p>The doctrine may be improved by exhortation. 1. To <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> them in whom Chriſt is the hope of glory. 2. To others, who as yet have not received him.</p>
+            <pb n="31" facs="tcp:118362:20"/>
+            <p>Firſt, Thoſe who poſſeſſe Chriſt and hope of glory through him, are to be perſwaded</p>
+            <p n="1">1. To contentment with their preſent condition upon earth, though it be mean and low. The heirs of vaſte eſtates in the world can the better bear hardſhip, during their non<g ref="char:EOLhyphen"/>age, though their diet be ſcanty, their lodging hard, and their cloathing courſe, becauſe they hope that ere long all will be better. Who knoweth not the poverty of Jeſus Chriſt? <hi>The Foxes have holes, and the birds of the air have their neſts,</hi>
+               <note place="margin">Mat. 2. 20.</note> 
+               <hi>but the Son of man hath not where to lay his head.</hi> And yet he is comfortably contented, as in reſpect of his preſent enjoy<g ref="char:EOLhyphen"/>ment of God as his portion, ſo in reference to his expecta<g ref="char:EOLhyphen"/>tion of future glory; <hi>The Lord is the Pertion of mine Inheri<g ref="char:EOLhyphen"/>tance:</hi>
+               <note place="margin">Pſa. 16. 5, 6, 11</note> 
+               <hi>The lines are<g ref="char:punc">▪</g> allen unto me in pleaſant places; In thy pre<g ref="char:EOLhyphen"/>ſence is fulneſſe of joy, and at thy right hand there are pleaſures for evermore.</hi> The Apoſtle <hi>Paul</hi> ſeeks by this argument to raiſe the Chriſtian <hi>Coloſſians</hi> above ſublunaries. <hi>When Chriſt</hi>
+               <note place="margin">Col. 3. 4.</note> 
+               <hi>who is our life ſhall appear, then ſhall we alſo appear with him in glory.</hi> Oh how admirably would ſuch meditations elevate the diſcontented Chriſtian with calmneſſe and complacency, if they were ſet on by faiths activity!</p>
+            <p n="2">2. To patience in bearing reproaches, with all other croſ<g ref="char:EOLhyphen"/>ſes for Chriſt, in a Chriſtian courſe, keeping in their minde this hoped-for glory. This Doctrine Chriſt himſelf both preached and practiſed; <hi>Bleſſed are you when men ſhall re<g ref="char:EOLhyphen"/>vile</hi>
+               <note place="margin">Mar. 5. 11, 12.</note> 
+               <hi>you, and perſecute you, and ſhall ſay all manner of evil a<g ref="char:EOLhyphen"/>gainſt you falſly for my ſake, Rejoyce and be exceeding glad, for great is your reward in heaven;</hi> This was one paſſage in his Sermon, and truly by this he was ſupported under his ſuf<g ref="char:EOLhyphen"/>ferings, <hi>For the joy that was ſet before him he endured the</hi>
+               <note place="margin">Heb. 12. 2.</note> 
+               <hi>Croſſe, deſpiſing the ſhame.</hi> Having propounded Chriſts pra<g ref="char:EOLhyphen"/>ctice, it may be judged needleſſe to mention the example of <hi>Moſes,</hi> who <hi>choſe rather to ſuffer affliction with the people of</hi>
+               <note place="margin">Heb. 11. 25, 26</note> 
+               <hi>God, then to enjoy the pleaſures of ſinne for a ſeaſon, Eſteeming the reproach of Chriſt greater riches then the treaſures of Egypt, for he had reſpect unto the recompence of reward:</hi> But <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you eye in Chriſt what is equitable and imitable, then conſi<g ref="char:EOLhyphen"/>der in <hi>Moſes</hi> what is attainable by the induſtrious actings of
+<pb n="32" facs="tcp:118362:21"/> faith and meditation. And yet to prevail further upon your ſpirits in promoting your magnanimity and patience, by minding your hope of glory in Chriſt, I wiſh you to com<g ref="char:EOLhyphen"/>pare your preſent ſufferings on earth with your future glory hoped for in heaven, both in regard of their quality and continuance, for the one are both light and ſhort, whereas the other is both weighty and eternall. The experience of Gods ſervants hath often put a <hi>Probatum eſt</hi> unto this dire<g ref="char:EOLhyphen"/>ction.<note place="margin">2 Cor. 4. 16, 17, 18.</note> 
+               <hi>For this cauſe we faint not, for our light affliction which is but for a moment worketh for us, a farre more exceeding and eternall weight of glory,</hi> while we look not at the things which are ſeen, <hi>but at the things which are not ſeen, for the things which are ſeen are temporall, but the things which are not ſeen are eternall.</hi>
+            </p>
+            <p>Secondly, Thoſe who have not as yet received Chriſt to dwell in them, are to be moved as they deſire heavens glory hereafter, and the comfortable hopes of it here upon earth, to give entertainment unto Jeſus Chaiſt. <hi>Zacheus</hi> upon an hint given of Chriſts willingneſſe to come into his houſe, comes down out of the Sycamore-Tree <hi>quickly, and recei<g ref="char:EOLhyphen"/>veth him joyfully.</hi> Now do you with ſeriouſneſſe conſider<note place="margin">Luk. 19. 4.</note> with what 1. importunity, 2. patience, 3. and promiſes, the Lord Jeſus calleth upon you for entertainment. <hi>Behold, I ſtand at the door and knock, if any man hear my voice, and</hi>
+               <note place="margin">Rom. 3. 20.</note> 
+               <hi>open the door, I will come in to him, and will ſup with him, and he with me.</hi>
+            </p>
+            <p n="1">1. There is the uſe both of a voice and knocking, there<g ref="char:EOLhyphen"/>fore importunity. He ſpeaketh by his word, and knocketh by his Spirit, with ſome recoylings of an awakned conſcience.</p>
+            <p n="2">2. This importunity is not only once, it is not a knock, or a word and away, but he <hi>ſtandeth,</hi> he ſtaieth, and waiteth for admiſſion; This ſpeaketh much patience.</p>
+            <p n="3">3. This patient importunity is backed with promiſes of communion upon willingneſſe to take him in, <hi>I will ſup with him and he with me,</hi> (as if he had ſaid) I will feaſt his ſoul, and I will accept of his proviſions for my welcome.</p>
+            <p>Now if by theſe motives (to which many more might be added) you be diſpoſed to enquire what you ſhould do that
+<pb n="33" facs="tcp:118362:21"/> may come into you, and be in you, the hope of glory; I would refer you to the counſell given by the Pſalmiſt (which is doubled, becauſe weighty and neceſſary) <hi>Lift up your heads O ye gates, and be lift up ye everlaſting doors, and the</hi>
+               <note place="margin">Pſa. 24. 7. 9.</note> 
+               <hi>King of glory ſhall come in.</hi> Hence two directions may be gathered. 1. That our ſouls (which in regard of their immor<g ref="char:EOLhyphen"/>tality are called everlaſting doors) muſt willingly receive him. He is a great King, and will not take up with an out-houſe for his lodging, for the place of his gracious a<g ref="char:EOLhyphen"/>bode;<note place="margin">Eph. 3. 17.</note> 
+               <hi>He dwelleth in the heart;</hi> Either there or not at all. Therefore by meditating upon the fore-mentioned particu<g ref="char:EOLhyphen"/>lars, ſuggeſting Chriſt his deſervings, and the incompara<g ref="char:EOLhyphen"/>ble benefits to be received by him, ſeek to prevail with your ſelves that your warmeſt loves, ſtrongeſt longings, and higheſt joys may be laid forth upon him. 2. That he muſt be received as Lord and King, with free contentment to ſubmit unto his Scepter and Regall Authority. In houſes where Kings were wont to be entertained, <hi>Rex</hi> was uſually written upon the door, all the rooms were to be diſpoſed of for his uſe. In like manner muſt they commit the Keys of government into the hands of Chriſt, with willingneſſe to be ruled by him in all things, who would receive him, and through him the <hi>hope of glory.</hi> 3. Hereto may be added heart-humiliation; For whereas high ſtately Palaces are eſteemed the fitteſt houſes for the entertainment of earthly Princes, Jeſus Chriſt the King of glory maketh choice of lowly hearts for his habitation: <hi>For thus ſaith the high and lofty one that inhabiteth eternity, whoſe name is holy, I dwell</hi>
+               <note place="margin">Iſa. 55. 15.</note> 
+               <hi>in the high and holy place, with him alſo that is of a contrite and humble ſpirit:</hi> Therefore levell your mountains of ſelf<g ref="char:EOLhyphen"/>conceit, lay your ſelves in the duſt upon the ſerious review of the evil both of your lives and natures, together with the deſerved miſery, which you be neither able to reſiſt nor undergo, and make an unfeigned ſelf-reſignation unto the Lord, to be alwaies, in all things governed by him, ſo may you expect the coming of Chriſt into your ſouls, and the comfort of good hope of glory through him.</p>
+            <p>This one thing I earneſtly move as a matter neceſſary to
+<pb n="34" facs="tcp:118362:22"/> ſalvation by Jeſus Chriſt, <hi>viz.</hi> ſelf-deniall, with ſubmiſſion to Chriſt, as tendred in the Goſpel, upon terms of free<g ref="char:EOLhyphen"/>grace. The Apoſtle <hi>Paul</hi> looketh upon the Jews as not in the ſtate of ſalvation, <hi>Becauſe they going about to eſtabliſh</hi>
+               <note place="margin">Rom 10. 1, 3.</note> 
+               <hi>their own righteouſneſſe ſubmitted not themſelves unto the righteouſneſſe of God.</hi> Their priviledges were high, and their coſtly Sacrifices many, and therefore they hoping without Chriſt then preached to work out their own wel<g ref="char:EOLhyphen"/>fare, fell ſhort of bleſſedneſſe. The ſame Spirit of pride and ſelf-dependance is in all our natures, which is extream<g ref="char:EOLhyphen"/>ly miſchievous, obſtructing the way unto Chriſts welcome into the ſoul: therefore I entreat and beſeech Chriſtians again and again herein to be exceeding carefull. Neither let thoſe who are moſt rich in parts, duties, enjoyments, rely thereupon, with diſreſpect of Chriſt; Nor yet let Poor ſouls, burthened with guilt, beggarly in abilities, moſt vile and unworthy in their own account, keep off from Chriſt through diſtruſtfull diſcouragements; For as all good hope of glory is raiſed from Chriſt heartily entertained, ſo no one who humbly, obedientially ſtoopeth under his govern<g ref="char:EOLhyphen"/>ment<note place="margin">Joh. 6. 37.</note> 
+               <hi>ſhall be rejected.</hi>
+            </p>
+            <p>In the laſt place, The Doctrine adminiſtreth much com<g ref="char:EOLhyphen"/>fort <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>4</label> unto mourners bewailing the death of ſuch who (as they have juſt cauſe to beleeve) had received Chriſt into their ſouls before they left this world, becauſe from this ground ariſeth good hope that they are admitted into hea<g ref="char:EOLhyphen"/>vens glory. Upon this account the Apoſtle diſſwadeth drooping, and perſwadeth chearfulneſſe in Chriſtians upon ſuch occaſions. <hi>I would not have you ignorant Brethren con<g ref="char:EOLhyphen"/>cerning</hi>
+               <note place="margin">1 Theſ. 4. 13, 14, 18.</note> 
+               <hi>them who are aſleep, that ye ſorrow not even as others which have no hope; For we beleeve that thoſe who ſleep in Jeſus, God will bring with him, and ſo ſhall we ever be with the Lord; Wherefore comfort one another with theſe words.</hi> In this regard regular love to our deceaſed Chriſtian Friends, would turn our water into wine, our tears into joys. <hi>If ye loved me</hi> (ſaid Chriſt to his dejected Apoſtles) <hi>ye would re<g ref="char:EOLhyphen"/>joyce, becauſe I ſaid, I go unto the Father.</hi> And this was ethe raſon (as ſome Divines do conjecture) wherefore
+<pb n="35" facs="tcp:118362:22"/> 
+               <hi>David</hi> who mourned exceſſively upon <hi>Abſaloms</hi> death, was more comfortable when he heard that his young childe was dead, <hi>Now he is dead, wherefore ſhould I faſt?</hi>
+               <note place="margin">2 Sam. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 23.</note> 
+               <hi>I ſhall go to him:</hi> God gave into his heart aſſurance of his childes happineſſe in heaven; whereas the wickedneſſe wherein <hi>Abſalom</hi> lived and died did ſuggeſt rather doubts concerning his future condition.</p>
+            <p>This Uſe puts a fair opportunity into my hand to reach forth a Cordiall unto the Father, Mother, Grand-mother, and other Relations of the ingenuous, gracious Childe, whoſe Funerall hath occaſioned this Aſſembly, and whoſe affectionate minding of this Text (upon which I have diſcourſed) was the Argument which induced me to un<g ref="char:EOLhyphen"/>dertake it, at this time. He was but nine years old and a half when God tranſlated him, and above five years ſince this Text, <hi>Chriſt in you the hope of glory,</hi> took ſuch hold upon his heart, that he frequently ſpake of it, and often entreated his Father to preach of it. And doubtleſſe it is not a thing uſuall for a childe ſo young to be thus affected with thoughts of Chriſt, and glory to be hoped for through him.</p>
+            <p>Some few things more I will adde,</p>
+            <p n="1">1. To relieve the ſad hearts of his neareſt friends.</p>
+            <p n="2">2. To move them, with others, unto thankfulneſſe to the Lord for that which his Spirit had wrought in this hope<g ref="char:EOLhyphen"/>full childe.</p>
+            <p n="3">3. As alſo to quicken young ones unto the imitation of his vertues.</p>
+            <p>Firſt, His loving honourable reſpect to his dear Pa<g ref="char:EOLhyphen"/>rents, and dutifull obſervance of them, was very great, which was evidenced by theſe particulars.</p>
+            <p n="1">1. Having quick parts and an aptneſſe to learning, he was willing to apply himſelf unto any thing wherein they jud<g ref="char:EOLhyphen"/>ged it meet to have him inſtructed.</p>
+            <p n="2">2. As he himſelf was afraid to offend his Parents, ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e was carefull to prevent amongſt Servants that which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight trouble them, and to keep from their knowledge whatſoever he thought would be grievous unto their ſpirits.</p>
+            <p n="3">
+               <pb n="36" facs="tcp:118362:23"/>3. When under griping pains by reaſon of the winde-Colick, he would labour to forbear groans and out<g ref="char:EOLhyphen"/>cries, leſt they ſhould be over-much afflicted with his La<g ref="char:EOLhyphen"/>mentations.</p>
+            <p n="4">4. Being asked, whether he deſired prayers for the lengthening of his life, his anſwer was, I would live, that I might glorifie God, and be a comfort to my Father and mother.</p>
+            <p>And all theſe expreſſions of his tender love towards his Parents, are the more conſiderable, becauſe there was reaſon to hope that they were encreaſed in him by their care of his Religious Education; In all theſe par<g ref="char:EOLhyphen"/>ticulars he was a rare example (eſpecially if his childe<g ref="char:EOLhyphen"/>hood be remembred) of Childrens obedience to their Pa<g ref="char:EOLhyphen"/>rents.</p>
+            <p>Secondly, He was like young <hi>Timothy,</hi> knowing the holy Scriptures in his Childehood. Though his bodily diſtempers did often take him off from Reading in the Bible, yet he had read it twice throughout, and was the third time gotten into the New Teſtament, before his laſt Sickneſſe. He was able alſo to give a good account both of the Chapters which he read, and of the Sermons which he heard.</p>
+            <p>And I will here mention three Paſſages which ma<g ref="char:EOLhyphen"/>nifeſt that he minded and was affected with the Word of God.</p>
+            <p n="1">1. Having been taught a ſhort Prayer by his Parents, his manner was, to adde thereto Scripture-ſentences from time to time; Two I ſhall report. The one from <hi>Pſal. 119. 68. Thou art good, and doſt good, Teach me thy Statutes:</hi> The other from <hi>Pſa. 120. 2. Deliver my Soul, O Lord, from lying lips, and from a deceitfull tongue.</hi> Were not theſe his deſires of knowledge and of preſervation from lying (a ſinne to which Children are ſubject) very commen<g ref="char:EOLhyphen"/>dable.</p>
+            <p n="2">2. Hearing of the miſery of wicked ones, and Hypo<g ref="char:EOLhyphen"/>crites, laid open in a Sermon on the Sabbath-morning, he durſt not go to his diner till he had gone aſide to praier;
+<pb n="37" facs="tcp:118362:23"/> whereas thouſands of riper age have no obedientiall bents wrought by divine threatnings.</p>
+            <p n="3">3. And being once reproached (ſome years ſince) becauſe the hair of his head was ſhort, he readily returned this An<g ref="char:EOLhyphen"/>ſwer, That Gods Word ſpeaketh againſt long hair, remem<g ref="char:EOLhyphen"/>bring thoſe words of the Apoſtle, <hi>Doth not even Nature it ſelf teach you, that if a man have long hair it is a ſhame unto him? 1 Cor.</hi> 11. 14. May not this give a check unto many, both Miniſters and others, whoſe Ruffian-like locks are very offenſive unto multitudes who fear the Lord?</p>
+            <p>Thirdly, As he was a Childe of many Praiers, not only being much praied for by his Parents and their Godly Friends, but alſo becauſe he himſelf did pray daily, ſeem<g ref="char:EOLhyphen"/>ing alſo to make conſcience of this duty. And here I ſhall relate ſome things which I account conſiderable.</p>
+            <p n="1">1. Sundry years ſince he made this as a matter of com<g ref="char:EOLhyphen"/>plaint, that he could not order his thoughts while he was at prayer; How may this ſhame multitudes of people much elder, to whom roving thoughts in prayer were never trou<g ref="char:EOLhyphen"/>bleſom?</p>
+            <p n="2">2. Not long before his death, ſtaying at home on the Sab<g ref="char:EOLhyphen"/>bath-morning with a maid-Servant, he deſired (as he had done formerly) that they might ſing a Pſalm and go to prayer; And in his prayer he made this Petition, <hi>Lord, grant that we may leave our ſinnes, not as people do their old clothes with purpoſe to put them on again, but that we may for<g ref="char:EOLhyphen"/>ſake our ſins as rags, with reſolution to wear them no more.</hi>
+            </p>
+            <p>Many times when ſick and in pain, he would uſe theſe words, <hi>Lord help me;</hi> He was thankfull to my ſelf as to o<g ref="char:EOLhyphen"/>thers for our prayers; and that night before his death, ha<g ref="char:EOLhyphen"/>ving been once praied for by them who watched with him (who diſcerned the approach of his change) he himſelf of his own accord entreated them to pray with him and for him again: Do not theſe things ſpeak his ſenſible appre<g ref="char:EOLhyphen"/>henſions of dependance upon God, with expectations of favour from him by means of praier?</p>
+            <p>Fourthly, This muſt not be forgotten, That for divers years before his death he would expreſſe much eſtimation
+<pb n="38" facs="tcp:118362:24"/> of thoſe Texts of Scripture which ſpeak of heavens glory, the glory provided for Gods Servants for ever. He would often commend the grace of contentment, ſaying, that it was <hi>better then riches,</hi> and that <hi>mans life conſiſted not in abun<g ref="char:EOLhyphen"/>dance.</hi> If unto all theſe things we adde (that with which I did begin) <hi>viz.</hi> the words of my Text, which did run much in his minde, <hi>Chriſt in you the hope of glory;</hi> we may thence charitably and probably conjecture, that notwithſtanding his religious education, and the many things praiſe-worthy in his life, yet he grounded his hope of glory alone upon the Lord Jeſus.</p>
+            <p>Theſe particulars I have judged meet to mention (as I before hinted) with reſpect to Gods honour, the comfort of his mourning friends, and the edification both of chil<g ref="char:EOLhyphen"/>dren and their Parents, who may be herewith acquainted.</p>
+            <p>Now the practicall improvement both of my Sermon and this Narration, I humbly commend unto the bleſſing of God through Jeſus Chriſt.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118362:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
